@@ -16,6 +16,7 @@ For example, the understanding score is based on the checklists
 # 2023-09
 - [On Layer Normalization in the Transformer Architecture](https://arxiv.org/pdf/2002.04745.pdf) _(Normalization, ***)_
 - [REMIXMATCH: SEMI-SUPERVISED LEARNING WITH DISTRIBUTION ALIGNMENT AND AUGMENTATION ANCHORING](https://openreview.net/pdf?id=HklkeR4KPB) _(Augmentation, *)_
+<br>
 
 # 2022 and Before
 - [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) <kbd>ICLR 2019</kbd> 
