@@ -9,14 +9,15 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-10
-- 
-- [Spatial Attention Fusion for Obstacle Detection Using MmWave Radar and Vision Sensor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7070402/pdf/sensors-20-00956.pdf) 
+- [A Theoretical Study on Solving Continual Learning](https://papers.nips.cc/paper_files/paper/2022/hash/20f44da80080d76bbc35bca0027f14e6-Abstract-Conference.html) <kbd>NIPS 2022</kbd> (Continual Learning)
+
+- [Spatial Attention Fusion for Obstacle Detection Using MmWave Radar and Vision Sensor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7070402/pdf/sensors-20-00956.pdf) (Sensor Fusion)
 <br>
 
 # 2022 and Before
 - [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) <kbd>ICLR 2019</kbd> 
 - [Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling](https://arxiv.org/abs/2003.06060) <kbd>NeurIPS 2020</kbd> 
-- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) <kbd>NeurIPS 2014</kbd> (*****)
+- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) <kbd>NeurIPS 2014</kbd>
 <br>
 
 # Papers to Read
@@ -26,7 +27,6 @@ For example, the understanding score is based on the checklists
 ### Continual Learning
 - [Self-Supervised Models are Continual Learners](https://arxiv.org/abs/2112.04215) <kbd>CVPR 2022</kbd>
 - [Theory on Forgetting and Generalization of Continual Learning](https://proceedings.mlr.press/v202/lin23f.html) <kbd>ICML 2023</kbd>
-- [A Theoretical Study on Solving Continual Learning](https://papers.nips.cc/paper_files/paper/2022/hash/20f44da80080d76bbc35bca0027f14e6-Abstract-Conference.html) <kbd>NIPS 2022</kbd>
 - [Continual evaluation for lifelong learning: Identifying the stability gap](https://openreview.net/forum?id=Zy350cRstc6)  <kbd>ICLR 2023</kbd>
 
 ### Generative Model
