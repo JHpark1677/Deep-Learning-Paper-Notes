@@ -6,7 +6,7 @@ This repository is the collection of various research papers that I'm dealing wi
 For example, 
 | Contribution | Methodology | Training Details | Experiments |
 | :----------: | :----------: | :----------: | :----------: |
-| O | O | X |  ○        |
+| O | O | X |  O        |
 
 
 
@@ -15,7 +15,7 @@ For example,
 
 
 # 2022 and Before
-- [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) <kbd>ICLR 2019</kbd> (O)
+- [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) <kbd>ICLR 2019</kbd> (△ O O △)
 - [Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling](https://arxiv.org/abs/2003.06060) <kbd>NeurIPS 2020</kbd> ()
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) <kbd>NeurIPS 2014</kbd> (*****)
 
