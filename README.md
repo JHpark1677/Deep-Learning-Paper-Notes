@@ -6,7 +6,7 @@ This repository is the collection of various research papers that I'm dealing wi
 For example, 
 | Contribution | Methodology | Training Details | Experiments |
 | :----------: | :----------: | :----------: | :----------: |
-| O | O | X |  O        |
+| * | * | _ | @        |
 
 
 
