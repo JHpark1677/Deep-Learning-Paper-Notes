@@ -14,7 +14,7 @@ For example, the understanding score is based on the checklists
 
 
 # 2022 and Before
-- [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) <kbd>ICLR 2019</kbd> (***)____._
+- [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) <kbd>ICLR 2019</kbd> (***) (___...)
 - [Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling](https://arxiv.org/abs/2003.06060) <kbd>NeurIPS 2020</kbd> (****)
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) <kbd>NeurIPS 2014</kbd> (*****)
 
