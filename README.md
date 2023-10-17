@@ -5,21 +5,21 @@ Now, I'm working on 3D Object Detection Tasks exploiting the radar-camera sensor
 This repository is the collection of various research papers that I'm dealing with, which is inspired by [Denny britz](https://github.com/dennybritz/deeplearning-papernotes), [Daniel Takeshi](https://github.com/DanielTakeshi/Paper_Notes) and [Patric Langechuan Liu](https://patrick-llgc.github.io/Learning-Deep-Learning/). The number of small stars indicate the importance and the circle indicates a degree of achievement of the papaer understanding.
 For example, the understanding score is based on the checklists
 | Main Ideas | Contribution | Methodology | Training Details | Experiments |
-| :-----: | :----------: | :----------: | :----------: | :----------: |
+| :-----: | :----------: | :----------: | :----------: | :----------: |<br>
 
 
       
 # 2023-10
 - 
 - [Spatial Attention Fusion for Obstacle Detection Using MmWave Radar and Vision Sensor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7070402/pdf/sensors-20-00956.pdf) (****)
-
+<br>
 
       
 # 2022 and Before
 - [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) <kbd>ICLR 2019</kbd> (***)
 - [Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling](https://arxiv.org/abs/2003.06060) <kbd>NeurIPS 2020</kbd> (****)
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) <kbd>NeurIPS 2014</kbd> (*****)
-
+<br>
 
        
 # Papers to Read
