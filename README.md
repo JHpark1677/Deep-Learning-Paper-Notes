@@ -4,9 +4,12 @@ Now, I'm working on 3D Object Detection Tasks exploiting the radar-camera sensor
 
 This repository is the collection of various research papers that I'm dealing with, which is inspired by [Denny britz](https://github.com/dennybritz/deeplearning-papernotes), [Daniel Takeshi](https://github.com/DanielTakeshi/Paper_Notes) and [Patric Langechuan Liu](https://patrick-llgc.github.io/Learning-Deep-Learning/). The number of small stars indicate the importance and the circle indicates a degree of achievement of the papaer understanding.
 For example, 
+
+<table align="center">
 | Main Ideas | Contribution | Methodology | Training Details | Experiments |
 | :-----: | :----------: | :----------: | :----------: | :----------: |
 | O | △ | △ | X |    ○     |
+</table>
 
 
 
