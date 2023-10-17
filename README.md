@@ -8,25 +8,25 @@ For example, the understanding score is based on the checklists
 | :-----: | :----------: | :----------: | :----------: | :----------: |
 
 
-<br>
+  
 # 2023-10
 - 
 - [Spatial Attention Fusion for Obstacle Detection Using MmWave Radar and Vision Sensor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7070402/pdf/sensors-20-00956.pdf) (****)
 
 
-<br>
+  
 # 2022 and Before
 - [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) <kbd>ICLR 2019</kbd> (***)
 - [Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling](https://arxiv.org/abs/2003.06060) <kbd>NeurIPS 2020</kbd> (****)
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) <kbd>NeurIPS 2014</kbd> (*****)
 
 
-<br>
+  
 # Papers to Read
 
 
 
-<br>
+  
 ### Continual Learning
 - [Self-Supervised Models are Continual Learners](https://arxiv.org/abs/2112.04215) <kbd>CVPR 2022</kbd>
 - [Theory on Forgetting and Generalization of Continual Learning](https://proceedings.mlr.press/v202/lin23f.html) <kbd>ICML 2022</kbd>
@@ -34,7 +34,7 @@ For example, the understanding score is based on the checklists
 - [Continual evaluation for lifelong learning: Identifying the stability gap](https://openreview.net/forum?id=Zy350cRstc6)  <kbd>ICLR 2023</kbd>
 
 
-<br>
+  
 ### Generative Model
 - [Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model](https://arxiv.org/abs/2208.07791) <kbd>2022</kbd>
 
