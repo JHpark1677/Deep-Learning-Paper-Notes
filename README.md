@@ -15,5 +15,5 @@ This repository is the collection of various research papers that I'm dealing wi
 
 # Papers to Read
 
-## Generative Model
+### Generative Model
 - [Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model](https://arxiv.org/abs/2208.07791) <kbd>2022</kbd>
