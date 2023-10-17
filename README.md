@@ -11,7 +11,7 @@ For example,
 
 
 # 2023-10
-- 
+- [Spatial Attention Fusion for Obstacle Detection Using MmWave Radar and Vision Sensor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7070402/pdf/sensors-20-00956.pdf) (○○○△○)
 
 
 # 2022 and Before
