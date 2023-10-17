@@ -5,7 +5,8 @@ Now, I'm working on 3D Object Detection Tasks exploiting the radar-camera sensor
 This repository is the collection of various research papers that I'm dealing with, which is inspired by [Denny britz](https://github.com/dennybritz/deeplearning-papernotes), [Daniel Takeshi](https://github.com/DanielTakeshi/Paper_Notes) and [Patric Langechuan Liu](https://patrick-llgc.github.io/Learning-Deep-Learning/). The number of small stars indicate the importance and the circle indicates a degree of achievement of the papaer understanding.
 For example, the understanding score is based on the checklists
 | Main Ideas | Contribution | Methodology | Training Details | Experiments |
-| :-----: | :----------: | :----------: | :----------: | :----------: |<br>
+| :-----: | :----------: | :----------: | :----------: | :----------: |
+<br>
 
 
       
@@ -32,9 +33,9 @@ For example, the understanding score is based on the checklists
 - [Theory on Forgetting and Generalization of Continual Learning](https://proceedings.mlr.press/v202/lin23f.html) <kbd>ICML 2022</kbd>
 - [A Theoretical Study on Solving Continual Learning](https://papers.nips.cc/paper_files/paper/2022/hash/20f44da80080d76bbc35bca0027f14e6-Abstract-Conference.html) <kbd>NIPS 2022</kbd>
 - [Continual evaluation for lifelong learning: Identifying the stability gap](https://openreview.net/forum?id=Zy350cRstc6)  <kbd>ICLR 2023</kbd>
-
+<br>
 
       
 ### Generative Model
 - [Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model](https://arxiv.org/abs/2208.07791) <kbd>2022</kbd>
-
+<br>
