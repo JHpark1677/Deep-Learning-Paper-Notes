@@ -6,14 +6,18 @@ This repository is the collection of various research papers that I'm dealing wi
 
 # 2023-10
 
+- 
 
 
 # 2022 and Before
-- [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) <kbd>ICLR 2019</kbd>
-- [Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling](https://arxiv.org/abs/2003.06060) <kbd>NeurIPS 2020</kbd>
-- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) <kbd>NeurIPS 2014</kbd>
+- [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) <kbd>ICLR 2019</kbd> (○○○●)
+- [Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling](https://arxiv.org/abs/2003.06060) <kbd>NeurIPS 2020</kbd> ()
+- [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) <kbd>NeurIPS 2014</kbd> ()
 
 # Papers to Read
 
+
+
 ### Generative Model
 - [Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model](https://arxiv.org/abs/2208.07791) <kbd>2022</kbd>
+
