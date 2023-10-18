@@ -32,6 +32,7 @@ For example, the understanding score is based on the checklists
 - [Self-Supervised Models are Continual Learners](https://arxiv.org/abs/2112.04215) <kbd>CVPR 2022</kbd>
 - [Theory on Forgetting and Generalization of Continual Learning](https://proceedings.mlr.press/v202/lin23f.html) <kbd>ICML 2023</kbd>
 - [Continual evaluation for lifelong learning: Identifying the stability gap](https://openreview.net/forum?id=Zy350cRstc6)  <kbd>ICLR 2023</kbd>
+- [An Efficient Domain-Incremental Learning Approach to Drive in All Weather Conditions](https://openaccess.thecvf.com/content/CVPR2022W/V4AS/papers/Mirza_An_Efficient_Domain-Incremental_Learning_Approach_To_Drive_in_All_Weather_CVPRW_2022_paper.pdf) <kbd>CVPR 2022</kbd>
 
 ### Generative Model
 - [Your ViT is Secretly a Hybrid Discriminative-Generative Diffusion Model](https://arxiv.org/abs/2208.07791) <kbd>2022</kbd>
