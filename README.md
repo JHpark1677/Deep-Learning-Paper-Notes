@@ -9,7 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-10
-- [A Theoretical Study on Solving Continual Learning](https://papers.nips.cc/paper_files/paper/2022/hash/20f44da80080d76bbc35bca0027f14e6-Abstract-Conference.html) <kbd>NIPS 2022</kbd> _(Continual Learning)_
+- [A Theoretical Study on Solving Continual Learning](https://papers.nips.cc/paper_files/paper/2022/hash/20f44da80080d76bbc35bca0027f14e6-Abstract-Conference.html) <kbd>NIPS 2022</kbd> _(Continual Learning, ****)_
 - [Spatial Attention Fusion for Obstacle Detection Using MmWave Radar and Vision Sensor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7070402/pdf/sensors-20-00956.pdf) _(Sensor Fusion, *****)_
 <br>
 
