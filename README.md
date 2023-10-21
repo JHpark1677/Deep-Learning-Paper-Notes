@@ -22,8 +22,9 @@ For example, the understanding score is based on the checklists
 - [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) <kbd>ICLR 2019</kbd> _(Energy Based Model)_
 - [Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling](https://arxiv.org/abs/2003.06060) <kbd>NeurIPS 2020</kbd> _(Energy Based Model)_
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) <kbd>NeurIPS 2014</kbd> _(Generative Adversarial Network)_
-<br>
 - [Disentangling and Unifying Graph Convolutions for Skeleton-Based Action Recognition](https://arxiv.org/abs/2003.14111) <kbd>CVPR 2020</kbd> _(Human Action Classification)_
+<br>
+
 
 # Papers to Read
 
