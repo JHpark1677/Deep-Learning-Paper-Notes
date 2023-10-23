@@ -18,6 +18,7 @@ For example, the understanding score is based on the checklists
 - [REMIXMATCH: SEMI-SUPERVISED LEARNING WITH DISTRIBUTION ALIGNMENT AND AUGMENTATION ANCHORING](https://openreview.net/pdf?id=HklkeR4KPB) <kbd>ICLR 2020</kbd> _(Augmentation, *)_
 - [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) <kbd>NIPS 2018</kbd> _(Deep Learning Theory, *****)_
 - [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412) <kbd>ICLR 2021</kbd> _(Optimization, ****)_
+- [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) <kbd>ICLR 2018</kbd> _(Data Augmentation, ***)_
 <br>
 
 # 2022 and Before
