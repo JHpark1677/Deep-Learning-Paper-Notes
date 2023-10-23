@@ -16,6 +16,7 @@ For example, the understanding score is based on the checklists
 # 2023-09
 - [On Layer Normalization in the Transformer Architecture](https://arxiv.org/pdf/2002.04745.pdf) _(Normalization, ***)_
 - [REMIXMATCH: SEMI-SUPERVISED LEARNING WITH DISTRIBUTION ALIGNMENT AND AUGMENTATION ANCHORING](https://openreview.net/pdf?id=HklkeR4KPB) _(Augmentation, *)_
+- [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) <kbd>NIPS 2018</kbd> _(Deep Learning Theory)_
 <br>
 
 # 2022 and Before
