@@ -29,7 +29,8 @@ For example, the understanding score is based on the checklists
 
 # Papers to Read
 
-
+### Object Detection
+- [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355) <kbd>ICCV 2019</kbd>
 
 ### Continual Learning
 - [Self-Supervised Models are Continual Learners](https://arxiv.org/abs/2112.04215) <kbd>CVPR 2022</kbd>
