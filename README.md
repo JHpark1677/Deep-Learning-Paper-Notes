@@ -11,6 +11,8 @@ For example, the understanding score is based on the checklists
 # 2023-10
 - [A Theoretical Study on Solving Continual Learning](https://papers.nips.cc/paper_files/paper/2022/hash/20f44da80080d76bbc35bca0027f14e6-Abstract-Conference.html) <kbd>NIPS 2022</kbd> _(Continual Learning, ****)_
 - [Spatial Attention Fusion for Obstacle Detection Using MmWave Radar and Vision Sensor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7070402/pdf/sensors-20-00956.pdf) _(Sensor Fusion, *****)_
+- [Multi-sensor data fusion using Bayesian programming: An automotive application](https://ieeexplore.ieee.org/document/1187989) _(Sensor Fusion, ****)_
+- [Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2304.10410) _(Sensor Fusion, ****)_
 <br>
 
 # 2023-09
@@ -19,6 +21,7 @@ For example, the understanding score is based on the checklists
 - [Visualizing the Loss Landscape of Neural Nets](https://arxiv.org/abs/1712.09913) <kbd>NIPS 2018</kbd> _(Deep Learning Theory, *****)_
 - [Sharpness-Aware Minimization for Efficiently Improving Generalization](https://arxiv.org/abs/2010.01412) <kbd>ICLR 2021</kbd> _(Optimization, ****)_
 - [mixup: Beyond Empirical Risk Minimization](https://arxiv.org/abs/1710.09412) <kbd>ICLR 2018</kbd> _(Data Augmentation, ***)_
+- [AdamP: Slowing Down the Slowdown for Momentum Optimizers on Scale-invariant Weights](https://arxiv.org/abs/2006.08217) <kbd>ICLR 2021</kbd> _(Optimization, ***)_
 <br>
 
 # 2022 and Before
