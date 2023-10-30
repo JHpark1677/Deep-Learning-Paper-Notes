@@ -13,6 +13,7 @@ For example, the understanding score is based on the checklists
 - [Spatial Attention Fusion for Obstacle Detection Using MmWave Radar and Vision Sensor](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7070402/pdf/sensors-20-00956.pdf) _(Sensor Fusion, *****)_
 - [Multi-sensor data fusion using Bayesian programming: An automotive application](https://ieeexplore.ieee.org/document/1187989) _(Sensor Fusion, ****)_
 - [Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review](https://arxiv.org/abs/2304.10410) _(Sensor Fusion, ****)_
+- [CRN: Camera Radar Net for Accurate, Robust, Efficient 3D Perception](https://arxiv.org/abs/2304.00670) <kbd>ICCV 2023</kbd> _(Sensor Fusion, ****)_
 <br>
 
 # 2023-09
