@@ -12,6 +12,24 @@ For example, the understanding score is based on the checklists
 - [ON THE DUALITY BETWEEN CONTRASTIVE AND NONCONTRASTIVE SELF-SUPERVISED LEARNING](https://openreview.net/forum?id=kDEL91Dufpa) <kbd>ICLR 2023</kbd> _(Contrastive Learning)_
 - [Corrupted Image Modeling for Self-Supervised Visual Pre-Training](https://openreview.net/forum?id=09hVcSDkea) <kbd>ICLR 2023</kbd> _(Self-Supervised Learning)_
 - [Point Transformer](https://arxiv.org/abs/2012.09164) _(Deep Learning Architecture)_
+- [A Deep Learning-based Radar and Camera Sensor Fusion Architecture for Object Detection](https://arxiv.org/abs/2005.07431) (_2D Sensor Fusion_)
+- [RVNet: Deep Sensor Fusion of Monocular Camera and Radar for Image-based Obstacle Detection in Challenging Environments](https://www.researchgate.net/publication/335833918_RVNet_Deep_Sensor_Fusion_of_Monocular_Camera_and_Radar_for_Image-based_Obstacle_Detection_in_Challenging_Environments?enrichId=rgreq-3c3ca58bdea789dc98b91a8b24745164-XXX&enrichSource=Y292ZXJQYWdlOzMzNTgzMzkxODtBUzo4MDM2MjIxODcxNzU5NDBAMTU2ODYwOTg2ODkzMw%3D%3D&el=1_x_3&_esc=publicationCoverPdf) (_2D Sensor Fusion_)
+- [Radar + RGB Fusion For Robust Object Detection In Autonomous Vehicle](https://ieeexplore.ieee.org/abstract/document/9191046) (_2D Sensor Fusion_)
+- [YOdar: Uncertainty-based Sensor Fusion for Vehicle Detection with Camera and Radar Sensors](https://arxiv.org/abs/2010.03320) (_2D Sensor Fusion_)
+- [CenterFusion: Center-based Radar and Camera Fusion for 3D Object Detection](https://arxiv.org/abs/2011.04841) (_3D Sensor Fusion_)
+- [RAMP-CNN: A Novel Neural Network for Enhanced Automotive Radar Object Recognition](https://arxiv.org/abs/2011.08981) <kbd>IEEE Sensors</kbd> (_2D Sensor Fusion_)
+- [Radar+RGB Attentive Fusion for Robust Object Detection in Autonomous Vehicles](https://arxiv.org/abs/2008.13642) (_2D Sensor Fusion_)
+- [RODNet: A Real-Time Radar Object Detection Network Cross-Supervised by Camera-Radar Fused Object 3D Localization](https://arxiv.org/abs/2102.05150) (_2D Sensor Fusion_)
+- [3D Object Detection of Cars and Pedestrians by Deep Neural Networks from Unit-Sharing One-Shot NAS]() (_3D Sensor Fusion_)
+- [Radar Camera Fusion via Representation Learning in Autonomous Driving](https://arxiv.org/pdf/2103.07825.pdf) (_3D Sensor Fusion_)
+- [Robust Small Object Detection on the Water Surface through Fusion of Camera and Millimeter Wave Radar](https://openaccess.thecvf.com/content/ICCV2021/papers/Cheng_Robust_Small_Object_Detection_on_the_Water_Surface_Through_Fusion_ICCV_2021_paper.pdf) <kbd>ICCV 2021</kbd> (_2D Sensor Fusion_)
+- [GRIF Net: Gated Region of Interest Fusion Network for Robust 3D Object Detection from Radar Point Cloud and Monocular Image](https://ieeexplore.ieee.org/document/9341177) (_2D Sensor Fusion_)
+- [FUTR3D: A Unified Sensor Fusion Framework for 3D Detection](https://arxiv.org/abs/2203.10642) <kbd>CVPR 2023</kbd> (_3D Sensor Fusion_)
+- [Simple-BEV: What Really Matters for Multi-Sensor BEV Perception?](https://arxiv.org/abs/2206.07959) (_3D Sensor Fusion_)
+- [Bridging the View Disparity Between Radar and Camera Features for Multi-modal Fusion 3D Object Detection](https://arxiv.org/pdf/2208.12079.pdf) (_3D Sensor Fusion_)
+- [RadSegNet: A Reliable Approach to Radar Camera Fusion](https://arxiv.org/abs/2208.03849) (_3D Sensor Fusion_)
+- [CRAFT: Camera-Radar 3D Object Detection with Spatio-Contextual Fusion Transformer](https://arxiv.org/abs/2209.06535) (_3D Sensor Fusion_)
+- [CramNet: Camera-Radar Fusion with Ray-Constrained Cross-Attention for Robust 3D Object Detection](https://arxiv.org/abs/2210.09267) (_3D Sensor Fusion_)
 <br>
 
 # 2023-10
