@@ -9,7 +9,8 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-11
-
+- [ON THE DUALITY BETWEEN CONTRASTIVE AND NONCONTRASTIVE SELF-SUPERVISED LEARNING](https://openreview.net/forum?id=kDEL91Dufpa) <kbd>ICLR 2023</kbd> _(Contrastive Learning)_
+- [Corrupted Image Modeling for Self-Supervised Visual Pre-Training](https://openreview.net/forum?id=09hVcSDkea) <kbd>ICLR 2023</kbd> _(Self-Supervised Learning)_
 <br>
 
 # 2023-10
