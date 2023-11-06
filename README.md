@@ -11,8 +11,8 @@ For example, the understanding score is based on the checklists
 # 2023-11
 - [TabNet: Attentive Interpretable Tabular Learning](https://ojs.aaai.org/index.php/AAAI/article/view/16826) <kbd>AAAI 2021</kbd> _(Tabular Models)_
 - [Why do tree-based models still outperform deep learning on typical tabular data?](https://proceedings.neurips.cc/paper_files/paper/2022/file/0378c7692da36807bdec87ab043cdadc-Supplemental-Datasets_and_Benchmarks.pdf) <kbd>NIPS 2022</kbd> _(Tabular Models, **)_
-- [ON THE DUALITY BETWEEN CONTRASTIVE AND NONCONTRASTIVE SELF-SUPERVISED LEARNING](https://openreview.net/forum?id=kDEL91Dufpa) <kbd>ICLR 2023</kbd> _(Contrastive Learning)_
-- [Corrupted Image Modeling for Self-Supervised Visual Pre-Training](https://openreview.net/forum?id=09hVcSDkea) <kbd>ICLR 2023</kbd> _(Self-Supervised Learning)_
+- [ON THE DUALITY BETWEEN CONTRASTIVE AND NONCONTRASTIVE SELF-SUPERVISED LEARNING](https://openreview.net/forum?id=kDEL91Dufpa) <kbd>ICLR 2023</kbd> _(Contrastive Learning, *)_
+- [Corrupted Image Modeling for Self-Supervised Visual Pre-Training](https://openreview.net/forum?id=09hVcSDkea) <kbd>ICLR 2023</kbd> _(Self-Supervised Learning, **)_
 - [Point Transformer](https://arxiv.org/abs/2012.09164) _(Deep Learning Architecture)_
 - [A Deep Learning-based Radar and Camera Sensor Fusion Architecture for Object Detection](https://arxiv.org/abs/2005.07431) (_2D Sensor Fusion_)
 - [RVNet: Deep Sensor Fusion of Monocular Camera and Radar for Image-based Obstacle Detection in Challenging Environments](https://www.researchgate.net/publication/335833918_RVNet_Deep_Sensor_Fusion_of_Monocular_Camera_and_Radar_for_Image-based_Obstacle_Detection_in_Challenging_Environments?enrichId=rgreq-3c3ca58bdea789dc98b91a8b24745164-XXX&enrichSource=Y292ZXJQYWdlOzMzNTgzMzkxODtBUzo4MDM2MjIxODcxNzU5NDBAMTU2ODYwOTg2ODkzMw%3D%3D&el=1_x_3&_esc=publicationCoverPdf) (_2D Sensor Fusion_)
