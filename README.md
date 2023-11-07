@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-11
+- [BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092) _(3D Object Detection)_
 - [TabNet: Attentive Interpretable Tabular Learning](https://ojs.aaai.org/index.php/AAAI/article/view/16826) <kbd>AAAI 2021</kbd> _(Tabular Models)_
 - [Why do tree-based models still outperform deep learning on typical tabular data?](https://proceedings.neurips.cc/paper_files/paper/2022/file/0378c7692da36807bdec87ab043cdadc-Supplemental-Datasets_and_Benchmarks.pdf) <kbd>NIPS 2022</kbd> _(Tabular Models, **)_
 - [ON THE DUALITY BETWEEN CONTRASTIVE AND NONCONTRASTIVE SELF-SUPERVISED LEARNING](https://openreview.net/forum?id=kDEL91Dufpa) <kbd>ICLR 2023</kbd> _(Contrastive Learning, *)_
