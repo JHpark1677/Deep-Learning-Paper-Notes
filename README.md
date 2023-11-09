@@ -63,6 +63,7 @@ For example, the understanding score is based on the checklists
 # Papers to Read
 
 ### Object Detection
+- [Point-GNN: Graph Neural Network for 3D Object Detection in a Point Cloud](https://arxiv.org/pdf/2003.01251.pdf) <kbd>CVPR 2020</kbd>
 - [Vision Transformer with Deformable Attention](https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Vision_Transformer_With_Deformable_Attention_CVPR_2022_paper.pdf) <kbd>CVPR 2022</kbd>
 - [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355) <kbd>ICCV 2019</kbd>
 - [Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection](https://arxiv.org/abs/2210.02443) <kbd>ICLR 2023</kbd>
