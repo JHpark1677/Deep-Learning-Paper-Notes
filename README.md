@@ -63,6 +63,7 @@ For example, the understanding score is based on the checklists
 # Papers to Read
 
 ### Object Detection
+- [Vision Transformer with Deformable Attention](https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Vision_Transformer_With_Deformable_Attention_CVPR_2022_paper.pdf) <kbd>CVPR 2022</kbd>
 - [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355) <kbd>ICCV 2019</kbd>
 - [Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection](https://arxiv.org/abs/2210.02443) <kbd>ICLR 2023</kbd>
 - [BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092) _(3D Object Detection)_
