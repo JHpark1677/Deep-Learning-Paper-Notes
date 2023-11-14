@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-11
+- [Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D](https://arxiv.org/abs/2008.05711) <kbd>ECCV 2020</kbd>
 - [BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092) <kbd>AAAI 2023</kbd> _(3D Object Detection)_
 - [HVDetFusion : A Simple and Robust Camera-Radar Fusion Framework](https://arxiv.org/abs/2307.11323) _(3D Sensor Fusion, ****)_
 - [TabNet: Attentive Interpretable Tabular Learning](https://ojs.aaai.org/index.php/AAAI/article/view/16826) <kbd>AAAI 2021</kbd> _(Tabular Models)_
