@@ -70,7 +70,7 @@ For example, the understanding score is based on the checklists
 - [Vision Transformer with Deformable Attention](https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Vision_Transformer_With_Deformable_Attention_CVPR_2022_paper.pdf) <kbd>CVPR 2022</kbd>
 - [FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/abs/1904.01355) <kbd>ICCV 2019</kbd>
 - [Time Will Tell: New Outlooks and A Baseline for Temporal Multi-View 3D Object Detection](https://arxiv.org/abs/2210.02443) <kbd>ICLR 2023</kbd>
-
+- [Simple-BEV: What Really Matters for Multi-Sensor BEV Perception?](https://arxiv.org/abs/2206.07959)
 
 ### Continual Learning
 - [Self-Supervised Models are Continual Learners](https://arxiv.org/abs/2112.04215) <kbd>CVPR 2022</kbd>
