@@ -10,7 +10,7 @@ For example, the understanding score is based on the checklists
 
 # 2023-11
 - [BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo](https://arxiv.org/abs/2209.10248) <kbd>AAAI 2023 </kbd>
-- [MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception](https://arxiv.org/abs/2211.10593) <kbd>ICCV2023 </kbd>
+- [MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception](https://arxiv.org/abs/2211.10593) <kbd>ICCV 2023</kbd>
 - [Autoregressive Visual Tracking](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.html) <kbd>CVPR 2023</kbd>
 - [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://proceedings.mlr.press/v119/katharopoulos20a.html) <kbd>ICML 2020</kbd>
 - [Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D](https://arxiv.org/abs/2008.05711) <kbd>ECCV 2020</kbd>
