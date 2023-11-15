@@ -9,7 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-11
-- [
+- [Autoregressive Visual Tracking](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.html) <kbd>CVPR 2023</kbd>
 - [Transformers are RNNs: Fast Autoregressive Transformers with Linear Attention](https://proceedings.mlr.press/v119/katharopoulos20a.html) <kbd>ICML 2020</kbd>
 - [Lift, Splat, Shoot: Encoding Images From Arbitrary Camera Rigs by Implicitly Unprojecting to 3D](https://arxiv.org/abs/2008.05711) <kbd>ECCV 2020</kbd>
 - [BEVDepth: Acquisition of Reliable Depth for Multi-view 3D Object Detection](https://arxiv.org/abs/2206.10092) <kbd>AAAI 2023</kbd> _(3D Object Detection)_
