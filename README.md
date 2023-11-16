@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-11
+- [PointMixer: MLP-Mixer for Point Cloud Understanding](https://arxiv.org/pdf/2111.11187.pdf) <kbd>ECCV 2022 </kbd>
 - [Radar Sensor-Based Estimation of Vehicle Orientation for Autonomous Driving](https://ieeexplore.ieee.org/document/9913885) <kbd>IEEE Sensors 2022 </kbd>
 - [Ego-motion Estimation for SAR Image Generation in Automotive Radar Systems]
 - [BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo](https://arxiv.org/abs/2209.10248) <kbd>AAAI 2023 </kbd>
