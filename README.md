@@ -9,6 +9,8 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-11
+- [Radar Sensor-Based Estimation of Vehicle Orientation for Autonomous Driving](https://ieeexplore.ieee.org/document/9913885) <kbd>IEEE Sensors 2022 </kbd>
+- [Ego-motion Estimation for SAR Image Generation in Automotive Radar Systems]
 - [BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo](https://arxiv.org/abs/2209.10248) <kbd>AAAI 2023 </kbd>
 - [MatrixVT: Efficient Multi-Camera to BEV Transformation for 3D Perception](https://arxiv.org/abs/2211.10593) <kbd>ICCV 2023</kbd>
 - [Autoregressive Visual Tracking](https://openaccess.thecvf.com/content/CVPR2023/html/Wei_Autoregressive_Visual_Tracking_CVPR_2023_paper.html) <kbd>CVPR 2023</kbd>
