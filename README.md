@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-11
+- [PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation](https://arxiv.org/abs/1612.00593) <kbd>CVPR 2017 </kbd> _(Point Cloud Models)_
 - [PointMixer: MLP-Mixer for Point Cloud Understanding](https://arxiv.org/pdf/2111.11187.pdf) <kbd>ECCV 2022 </kbd>
 - [Radar Sensor-Based Estimation of Vehicle Orientation for Autonomous Driving](https://ieeexplore.ieee.org/document/9913885) <kbd>IEEE Sensors 2022 </kbd>
 - [Ego-motion Estimation for SAR Image Generation in Automotive Radar Systems]
