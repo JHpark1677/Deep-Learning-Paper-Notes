@@ -9,6 +9,9 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-11
+- [Learning to Prompt for Vision-Language Models](https://arxiv.org/pdf/2109.01134.pdf) <kbd>IJCV 2022</kbd> _(Multi-Modal Learning)_
+- [Grounding Language Models to Images for Multimodal Inputs and Outputs](https://arxiv.org/pdf/2301.13823.pdf) <kbd>ICML 2023</kbd> _(Multi-Modal Learning)_
+- [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/pdf/2305.06500.pdf) _(Multi-Modal Learning)_
 - [Deep Kalman Filters](https://arxiv.org/abs/1511.05121) _(Kalman Filters)_
 - [Simple-BEV: What Really Matters for Multi-Sensor BEV Perception?](https://arxiv.org/abs/2206.07959) <kbd>ICRA 2023</kbd> _(3D Object Detection)_
 - [BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection](https://arxiv.org/abs/2203.17054)
