@@ -8,6 +8,9 @@ For example, the understanding score is based on the checklists
 | :-----: | :----------: | :----------: | :----------: | :----------: |
 <br>
 
+# 2023-12
+
+
 # 2023-11
 - [Learning to Prompt for Vision-Language Models](https://arxiv.org/pdf/2109.01134.pdf) <kbd>IJCV 2022</kbd> _(Multi-Modal Learning)_
 - [Grounding Language Models to Images for Multimodal Inputs and Outputs](https://arxiv.org/pdf/2301.13823.pdf) <kbd>ICML 2023</kbd> _(Multi-Modal Learning)_
