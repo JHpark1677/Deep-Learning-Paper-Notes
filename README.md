@@ -9,7 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
-
+- [BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers](https://arxiv.org/abs/2203.17270) <kbd>ECCV 2022</kbd> _(3D Object Detection)_
 
 # 2023-11
 - [Learning to Prompt for Vision-Language Models](https://arxiv.org/pdf/2109.01134.pdf) <kbd>IJCV 2022</kbd> _(Multi-Modal Learning)_
