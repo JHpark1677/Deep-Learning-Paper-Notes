@@ -76,6 +76,9 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2022 and Before
+- [Spectral Normalization for Generative Adversarial Networks](https://arxiv.org/abs/1802.05957) <kbd>ICLR 2018</kbd> _(Generative Adversarial Network)_
+- [cGANs with Projection Discriminator](https://arxiv.org/abs/1802.05637) <kdb>ICLR 2018</kbd> _(Generative Adversarial Network)_
+- [Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization](https://arxiv.org/abs/1610.02391) <kbd>IJCV 2019</kbd> _(XAI)_
 - [Your Classifier is Secretly an Energy Based Model and You Should Treat it Like One](https://arxiv.org/abs/1912.03263) <kbd>ICLR 2019</kbd> _(Energy Based Model)_
 - [Your GAN is Secretly an Energy-based Model and You Should use Discriminator Driven Latent Sampling](https://arxiv.org/abs/2003.06060) <kbd>NeurIPS 2020</kbd> _(Energy Based Model)_
 - [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) <kbd>NeurIPS 2014</kbd> _(Generative Adversarial Network)_
