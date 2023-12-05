@@ -9,7 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
-- [Parameter-free Online Test-time Adaptation](https://arxiv.org/pdf/2201.05718.pdf) <kdb>CVPR 2022</kdb> _(Domain Adaptation)_
+- [Parameter-free Online Test-time Adaptation](https://arxiv.org/pdf/2201.05718.pdf) <kbd>CVPR 2022</kbd> _(Domain Adaptation)_
 - [TOWARDS STABLE TEST-TIME ADAPTATION IN DYNAMIC WILD WORLD](https://arxiv.org/pdf/2302.12400.pdf) <kbd>ICLR 2023</kbd> _(Domain Adaptation)_
 - [Robust Test-Time Adaptation in Dynamic Scenarios](https://arxiv.org/pdf/2303.13899.pdf) <kbd>CVPR 2023</kbd> _(Domain Adaptation)_
 - [BEVFormer: Learning Bird's-Eye-View Representation from Multi-Camera Images via Spatiotemporal Transformers](https://arxiv.org/abs/2203.17270) <kbd>ECCV 2022</kbd> _(3D Object Detection)_
