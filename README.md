@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
+- [SmoothGrad: removing noise by adding noise](https://arxiv.org/abs/1706.03825) <kbd>CVPR 2017</kbd> _(XAI)_
 - [Parameter-free Online Test-time Adaptation](https://arxiv.org/pdf/2201.05718.pdf) <kbd>CVPR 2022</kbd> _(Domain Adaptation)_
 - [TOWARDS STABLE TEST-TIME ADAPTATION IN DYNAMIC WILD WORLD](https://arxiv.org/pdf/2302.12400.pdf) <kbd>ICLR 2023</kbd> _(Domain Adaptation)_
 - [Robust Test-Time Adaptation in Dynamic Scenarios](https://arxiv.org/pdf/2303.13899.pdf) <kbd>CVPR 2023</kbd> _(Domain Adaptation)_
