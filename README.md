@@ -9,6 +9,9 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
+- [Grad-CAM: Why did you say that?](https://arxiv.org/abs/1611.07450) <kbd>NIPS 2016</kbd> _(XAI)_
+- [Striving for Simplicity: The All Convolutional Net](https://arxiv.org/abs/1412.6806) <kbd>ICLR 2015</kbd> _(XAI)_
+- [Visualizing and Understanding Convolutional Networks](https://arxiv.org/abs/1311.2901) _(XAI)_
 - [SmoothGrad: removing noise by adding noise](https://arxiv.org/abs/1706.03825) <kbd>CVPR 2017</kbd> _(XAI)_
 - [Parameter-free Online Test-time Adaptation](https://arxiv.org/pdf/2201.05718.pdf) <kbd>CVPR 2022</kbd> _(Domain Adaptation)_
 - [TOWARDS STABLE TEST-TIME ADAPTATION IN DYNAMIC WILD WORLD](https://arxiv.org/pdf/2302.12400.pdf) <kbd>ICLR 2023</kbd> _(Domain Adaptation)_
