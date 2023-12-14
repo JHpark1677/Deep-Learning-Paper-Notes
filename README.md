@@ -9,7 +9,8 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
-- [ ]
+- [TabTransformer: Tabular Data Modeling Using Contextual Embeddings](https://arxiv.org/abs/2012.06678) _(Tabular Models)_
+- [Deep Neural Networks and Tabular Data: A Survey](https://arxiv.org/pdf/2110.01889.pdf) <kbd>IEEE 2021</kbd> _(Tabular Models)_
 - [Towards Interpretable Semantic Segmentation via Gradient-weighted Class Activation Mapping](https://arxiv.org/abs/2002.11434) <kbd>AAAI 2020</kbd> _(XAI)_
 - [Explaining NonLinear Classification Decisions with Deep Taylor Decomposition](https://arxiv.org/abs/1512.02479) _(XAI)_
 - [Score-CAM: Score-Weighted Visual Explanations for Convolutional Neural Networks](https://www.researchgate.net/publication/343270559_Score-CAM_Score-Weighted_Visual_Explanations_for_Convolutional_Neural_Networks) <kbd>CVPR 2020</kbd> _(XAI)_
