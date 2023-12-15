@@ -9,7 +9,8 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
-- [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/pdf/2106.11959.pdf) >kbd>NIPS 2021</kbd> _(Tabular Models)_
+- [On Embeddings for Numerical Features in Tabular Deep Learning](https://arxiv.org/abs/2203.05556v1) _(Tabular Models)_
+- [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/pdf/2106.11959.pdf) <kbd>NIPS 2021</kbd> _(Tabular Models)_
 - [TabTransformer: Tabular Data Modeling Using Contextual Embeddings](https://arxiv.org/abs/2012.06678) _(Tabular Models)_
 - [Deep Neural Networks and Tabular Data: A Survey](https://arxiv.org/pdf/2110.01889.pdf) <kbd>IEEE 2021</kbd> _(Tabular Models)_
 - [Towards Interpretable Semantic Segmentation via Gradient-weighted Class Activation Mapping](https://arxiv.org/abs/2002.11434) <kbd>AAAI 2020</kbd> _(XAI)_
