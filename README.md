@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
+- []
 - [On Embeddings for Numerical Features in Tabular Deep Learning](https://arxiv.org/abs/2203.05556v1) _(Tabular Models)_
 - [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/pdf/2106.11959.pdf) <kbd>NIPS 2021</kbd> _(Tabular Models)_
 - [TabTransformer: Tabular Data Modeling Using Contextual Embeddings](https://arxiv.org/abs/2012.06678) _(Tabular Models)_
