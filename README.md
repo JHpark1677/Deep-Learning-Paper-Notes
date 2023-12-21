@@ -9,6 +9,8 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
+- [Reliable Post hoc Explanations:Modeling Uncertainty in Explainability](https://proceedings.neurips.cc/paper/2021/file/4e246a381baf2ce038b3b0f82c7d6fb4-Paper.pdf) <kbd>NIPS 2021</kbd> _(XAI)
+- [Transformer Interpretability Beyond Attention Visualization](https://openaccess.thecvf.com/content/CVPR2021/papers/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.pdf) <kbd>CVPR 2021</kbd> _(XAI)
 - [On Embeddings for Numerical Features in Tabular Deep Learning](https://arxiv.org/abs/2203.05556v1) _(Tabular Models)_
 - [Revisiting Deep Learning Models for Tabular Data](https://arxiv.org/pdf/2106.11959.pdf) <kbd>NIPS 2021</kbd> _(Tabular Models)_
 - [TabTransformer: Tabular Data Modeling Using Contextual Embeddings](https://arxiv.org/abs/2012.06678) _(Tabular Models)_
