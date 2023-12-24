@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
+- [Understanding Individual Decisions of CNNs via Contrastive Backpropagation](https://arxiv.org/abs/1812.02100) <kbd>ACCV 2018</kbd> _(XAI)_
 - [Reliable Post hoc Explanations:Modeling Uncertainty in Explainability](https://proceedings.neurips.cc/paper/2021/file/4e246a381baf2ce038b3b0f82c7d6fb4-Paper.pdf) <kbd>NIPS 2021</kbd> _(XAI)
 - [Transformer Interpretability Beyond Attention Visualization](https://openaccess.thecvf.com/content/CVPR2021/papers/Chefer_Transformer_Interpretability_Beyond_Attention_Visualization_CVPR_2021_paper.pdf) <kbd>CVPR 2021</kbd> _(XAI)
 - [On Embeddings for Numerical Features in Tabular Deep Learning](https://arxiv.org/abs/2203.05556v1) _(Tabular Models)_
