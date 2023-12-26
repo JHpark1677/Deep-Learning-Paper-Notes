@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
+-[RISE: Randomized Input Sampling for Explanation of Black-box Models](https://arxiv.org/pdf/1806.07421.pdf) <kbd>BMVC 2018</kbd> _(XAI)_
 - [Multimodal Explainable Artificial Intelligence: A Comprehensive Review of Methodological Advances and Future Research Directions](https://arxiv.org/pdf/2306.05731.pdf) _(Multimodal Learning)_
 - [Understanding Individual Decisions of CNNs via Contrastive Backpropagation](https://arxiv.org/abs/1812.02100) <kbd>ACCV 2018</kbd> _(XAI)_
 - [Reliable Post hoc Explanations:Modeling Uncertainty in Explainability](https://proceedings.neurips.cc/paper/2021/file/4e246a381baf2ce038b3b0f82c7d6fb4-Paper.pdf) <kbd>NIPS 2021</kbd> _(XAI)
