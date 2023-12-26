@@ -1,4 +1,4 @@
-MXAI's key challenges : 
+# MXAI's key challenges : 
 1. Identification of the modality with the highest impact on overall model's prediction.
 2. Discovery of the most salient features in each modality. (Which features of each modality help model's prediction)
 3. Detection of causal relations in model's input-output data streams for generating explanations more easily conceivable by humans. 
