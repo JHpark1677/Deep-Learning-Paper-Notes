@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
+- [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) <kbd>NIPS 2017</kbd> _(XAI)_
 - [Learning Important Features Through Propagating Activation Differences](https://arxiv.org/pdf/1704.02685.pdf) _(XAI)_
 - [Consistent Individualized Feature Attribution for Tree Ensembles](https://arxiv.org/pdf/1802.03888.pdf) _(XAI)_
 - [RISE: Randomized Input Sampling for Explanation of Black-box Models](https://arxiv.org/pdf/1806.07421.pdf) <kbd>BMVC 2018</kbd> _(XAI)_
