@@ -37,4 +37,5 @@ Incremental training (explanation module is constructed after the model for the 
 * Randomized Input Sampling for Explanation (RISE)
   ''' Masking Radar's Specific Parts to generate score. And combining masked points to give scores. d
   
-* 
+* Guided backpropagation
+* Concept Activation Vectors (CAV)
