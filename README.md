@@ -9,6 +9,12 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
+- [Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception](https://arxiv.org/abs/2303.05970) _(3D Object Detection)_
+- [Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection](https://arxiv.org/abs/2310.15670) <kbd>NIPS 2023</kbd> _(3D Object Detection)_
+- [UniM2AE: Multi-modal Masked Autoencoders with Unified 3D Representation for 3D Perception in Autonomous Driving](https://arxiv.org/abs/2308.10421) _(3D Object Detection)_
+- [SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos](https://arxiv.org/abs/2308.09244) <kbd>ICCV 2023</kbd> _(3D Object Detection)_
+- [Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection](https://arxiv.org/abs/2303.11926) _(3D Object Detection)_
+- [Temporal Enhanced Training of Multi-view 3D Object Detector via Historical Object Prediction](https://arxiv.org/abs/2304.00967) _(3D Object Detection)_
 - [Textual Explanations for Self-Driving Vehicles](https://arxiv.org/pdf/1807.11546.pdf) <kbd>ECCV 2018</kdb> _(MXAI)_
 - [Visual Relationship Detection with Language Priors](https://arxiv.org/pdf/1608.00187.pdf) <kbd>ECCV 2016</kbd> _(MXAI)_
 - [A Unified Approach to Interpreting Model Predictions](https://arxiv.org/abs/1705.07874) <kbd>NIPS 2017</kbd> _(XAI)_
