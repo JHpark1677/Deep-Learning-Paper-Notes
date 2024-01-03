@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2023-12
+
 - [Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception](https://arxiv.org/abs/2303.05970) _(3D Object Detection)_
 - [Leveraging Vision-Centric Multi-Modal Expertise for 3D Object Detection](https://arxiv.org/abs/2310.15670) <kbd>NIPS 2023</kbd> _(3D Object Detection)_
 - [UniM2AE: Multi-modal Masked Autoencoders with Unified 3D Representation for 3D Perception in Autonomous Driving](https://arxiv.org/abs/2308.10421) _(3D Object Detection)_
