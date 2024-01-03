@@ -9,7 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-01
-- [Time will tell : new outlooks and a baseline for temporal multi-view 3d object detection](https://arxiv.org/pdf/2210.02443.pdf) _(3D Object Detection)_
+- [Time Will Tell : new outlooks and a baseline for temporal multi-view 3d object detection](https://arxiv.org/pdf/2210.02443.pdf) _(3D Object Detection)_
 
 # 2023-12
 - [Exploring Recurrent Long-term Temporal Fusion for Multi-view 3D Perception](https://arxiv.org/abs/2303.05970) _(3D Object Detection)_
