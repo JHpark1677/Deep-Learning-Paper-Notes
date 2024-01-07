@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-01
+- [A Review on Explainability in Multimodal Deep Neural Nets](https://arxiv.org/abs/2105.07878) _(Multimodal XAI)_
 - [Vision Transformer with Deformable Attention](https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Vision_Transformer_With_Deformable_Attention_CVPR_2022_paper.pdf) <kbd>CVPR 2022</kbd> _(Vision Transformer)_
 - [Not All Patches are What You Need: Expediting Vision Transformers via Token Reorganizations](https://arxiv.org/abs/2202.07800) <kbd>ICLR 2022</kbd> _(Vision Transformer)_
 - [Time Will Tell : new outlooks and a baseline for temporal multi-view 3d object detection](https://arxiv.org/pdf/2210.02443.pdf) _(3D Object Detection)_
