@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-01
+- [Layer-Wise Relevance Propagation: An Overview](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10) _(XAI)_
 - [Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph](https://aclanthology.org/P18-1208/) _(Multimodal XAI)_
 - [A Review on Explainability in Multimodal Deep Neural Nets](https://arxiv.org/abs/2105.07878) _(Multimodal XAI)_
 - [Vision Transformer with Deformable Attention](https://openaccess.thecvf.com/content/CVPR2022/papers/Xia_Vision_Transformer_With_Deformable_Attention_CVPR_2022_paper.pdf) <kbd>CVPR 2022</kbd> _(Vision Transformer)_
