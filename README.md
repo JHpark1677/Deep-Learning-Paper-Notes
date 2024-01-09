@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-01
+- [An Introduction to Variable and Feature Selection](https://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf) _(Feature Learning)_
 - [Layer-Wise Relevance Propagation: An Overview](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10) _(XAI)_
 - [Multimodal Language Analysis in the Wild: CMU-MOSEI Dataset and Interpretable Dynamic Fusion Graph](https://aclanthology.org/P18-1208/) _(Multimodal XAI)_
 - [A Review on Explainability in Multimodal Deep Neural Nets](https://arxiv.org/abs/2105.07878) _(Multimodal XAI)_
