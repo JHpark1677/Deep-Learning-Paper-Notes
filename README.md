@@ -9,7 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-02
-
+Article Writing Season
 
 # 2024-01
 - [Evaluating the visualization of what a Deep Neural Network has learned](https://arxiv.org/pdf/1509.06321.pdf) _(XAI)_
