@@ -8,8 +8,11 @@ For example, the understanding score is based on the checklists
 | :-----: | :----------: | :----------: | :----------: | :----------: |
 <br>
 
-# 2024-02 [Article Writing Season]
+# 2024-03 [Article Writing Season]
+- [SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos](https://arxiv.org/pdf/2308.09244.pdf) _(3D Object Detection)_
+- [Reliable Orientation Estimation of Vehicles in High-Resolution Radar Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7518649) _(Radar's Detection)_
 
+# 2024-02 [Article Writing Season]
 
 # 2024-01
 - [Evaluating the visualization of what a Deep Neural Network has learned](https://arxiv.org/pdf/1509.06321.pdf) _(XAI)_
