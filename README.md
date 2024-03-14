@@ -11,11 +11,11 @@ For example, the understanding score is based on the checklists
 # 2024-03 [Article Writing Season]
 - [SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos](https://arxiv.org/pdf/2308.09244.pdf) _(3D Object Detection)_
 - [Reliable Orientation Estimation of Vehicles in High-Resolution Radar Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7518649) _(Radar's Detection)_
+- [Evaluating the visualization of what a Deep Neural Network has learned](https://arxiv.org/pdf/1509.06321.pdf) _(XAI)_
 
 # 2024-02 [Article Writing Season]
 
 # 2024-01
-- [Evaluating the visualization of what a Deep Neural Network has learned](https://arxiv.org/pdf/1509.06321.pdf) _(XAI)_
 - [Adversarial Examples: Attacks and Defenses for Deep Learning](https://arxiv.org/pdf/1712.07107.pdf) _(Adversarial Attack)_
 - [An Introduction to Variable and Feature Selection](https://www.jmlr.org/papers/volume3/guyon03a/guyon03a.pdf) _(Feature Learning)_
 - [Layer-Wise Relevance Propagation: An Overview](https://link.springer.com/chapter/10.1007/978-3-030-28954-6_10) _(XAI)_
