@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-03 [Article Writing Season]
+- [A Benchmark for Interpretability Methods in Deep Neural Networks](https://arxiv.org/pdf/1806.10758.pdf) <kbd>NIPS 2019</kbd> _(XAI)_
 - [SparseBEV: High-Performance Sparse 3D Object Detection from Multi-Camera Videos](https://arxiv.org/pdf/2308.09244.pdf) _(3D Object Detection)_
 - [Reliable Orientation Estimation of Vehicles in High-Resolution Radar Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7518649) _(Radar's Detection)_
 - [Evaluating the visualization of what a Deep Neural Network has learned](https://arxiv.org/pdf/1509.06321.pdf) _(XAI)_
