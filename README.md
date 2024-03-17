@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-03 [Article Writing Season]
+- [Representer Point Selection for Explaining Deep Neural Networks](https://arxiv.org/pdf/1811.09720.pdf) <kbd>NIPS 2019</kbd> _(XAI)_
 - [Sanity Checks for Saliency Maps](https://arxiv.org/pdf/1810.03292.pdf) <kbd>NIPS 2018</kbd> _(XAI)_
 - [THE (UN)RELIABILITY OF SALIENCY METHODS](https://arxiv.org/pdf/1711.00867.pdf) _(XAI)_
 - [A Benchmark for Interpretability Methods in Deep Neural Networks](https://arxiv.org/pdf/1806.10758.pdf) <kbd>NIPS 2019</kbd> _(XAI)_
