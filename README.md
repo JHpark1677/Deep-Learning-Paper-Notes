@@ -10,6 +10,7 @@ For example, the understanding score is based on the checklists
 
 # 2024-03 [Article Writing Season]
 
+- [Want to be Retweeted? Large Scale Analytics on Factors Impacting Retweet in Twitter Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5590452) _(Social Computing)_
 - [Estimating Training Data Influence by Tracing Gradient Descent](https://papers.nips.cc/paper/2020/file/e6385d39ec9394f2f3a354d9d2b88eec-Paper.pdf) <kbd>NIPS 2020</kbd> _(XAI)_
 - [Representer Point Selection for Explaining Deep Neural Networks](https://arxiv.org/pdf/1811.09720.pdf) <kbd>NIPS 2019</kbd> _(XAI)_
 - [Sanity Checks for Saliency Maps](https://arxiv.org/pdf/1810.03292.pdf) <kbd>NIPS 2018</kbd> _(XAI)_
