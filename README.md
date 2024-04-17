@@ -14,6 +14,7 @@ For example, the understanding score is based on the checklists
 - [BEVTrack: A Simple and Strong Baseline for 3D Single Object Tracking in Bird’s-Eye View](https://arxiv.org/abs/2309.02185) _(3D Object Tracking 2023)_
 - [A Bayesian Detect to Track System for Robust Visual Object Tracking and Semi-Supervised Model Learning](https://arxiv.org/abs/2205.02371) _(3D Object Tracking 2022)_
 - [Conjugate Priors for Bayesian Object Tracking](https://research.chalmers.se/publication/519159/file/519159_Fulltext.pdf) _(Object Tracking)_
+- [An Overview of Signal Processing Techniques for Millimeter Wave MIMO Systems](https://arxiv.org/pdf/1512.03007.pdf) <kbd>IEEE Journal in Signal Processing 2016</kbd> _(MIMO wireless communication)_
 
 # 2024-03 [Article Writing Season]
 - [Want to be Retweeted? Large Scale Analytics on Factors Impacting Retweet in Twitter Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5590452) _(Social Computing)_
