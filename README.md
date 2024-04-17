@@ -9,6 +9,8 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-04
+- [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
+- 
 
 # 2024-03 [Article Writing Season]
 - [Want to be Retweeted? Large Scale Analytics on Factors Impacting Retweet in Twitter Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5590452) _(Social Computing)_
