@@ -9,6 +9,8 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-04
+- [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://arxiv.org/pdf/2011.12450)
+- [DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries](https://arxiv.org/pdf/2110.06922)
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
 - [A COMPLETE RECIPE FOR BAYESIAN KNOWLEDGE TRANSFER: OBJECT TRACKING](https://arxiv.org/abs/2210.13232) _(3D Object Tracking 2022)_
 - [BEVTrack: A Simple and Strong Baseline for 3D Single Object Tracking in Bird’s-Eye View](https://arxiv.org/abs/2309.02185) _(3D Object Tracking 2023)_
