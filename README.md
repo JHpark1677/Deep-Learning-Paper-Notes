@@ -9,7 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-04
-- [SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982)
+- [SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982) Facebook AI Research (FAIR)
 - [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://arxiv.org/pdf/2011.12450)
 - [DETR3D: 3D Object Detection from Multi-view Images via 3D-to-2D Queries](https://arxiv.org/pdf/2110.06922)
 - [Auto-Encoding Variational Bayes](https://arxiv.org/abs/1312.6114)
