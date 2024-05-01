@@ -8,6 +8,10 @@ For example, the understanding score is based on the checklists
 | :-----: | :----------: | :----------: | :----------: | :----------: |
 <br>
 
+# 2024-05
+- [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/pdf/2312.06937)
+
+
 # 2024-04
 - [SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982) Facebook AI Research (FAIR)
 - [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://arxiv.org/pdf/2011.12450)
