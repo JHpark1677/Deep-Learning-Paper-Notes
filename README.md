@@ -10,7 +10,7 @@ For example, the understanding score is based on the checklists
 
 # 2024-05
 - [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/pdf/2312.06937)
-
+- [What the DAAM: Interpreting Stable Diffusion Using Cross Attention](https://arxiv.org/abs/2210.04885)
 
 # 2024-04
 - [SlowFast Networks for Video Recognition](https://arxiv.org/pdf/1812.03982) Facebook AI Research (FAIR)
