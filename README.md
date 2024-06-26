@@ -8,6 +8,10 @@ For example, the understanding score is based on the checklists
 | :-----: | :----------: | :----------: | :----------: | :----------: |
 <br>
 
+# 2024-06
+- [DEFORMABLE DETR: DEFORMABLE TRANSFORMERS FOR END-TO-END OBJECT DETECTION](https://arxiv.org/pdf/2010.04159) <kbd>ICLR 2021</kbd>
+- [End-to-End Object Detection with Transformers](https://arxiv.org/abs/2005.12872) <kbd>Facebook AI</kbd>
+
 # 2024-05
 - [Can a Transformer Represent a Kalman Filter?](https://arxiv.org/pdf/2312.06937)
 - [What the DAAM: Interpreting Stable Diffusion Using Cross Attention](https://arxiv.org/abs/2210.04885)
