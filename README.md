@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-07
+- [PETR: Position Embedding Transformation for Multi-View 3D Object Detection](https://sunkyoo.github.io/opencv4cvml/) <kbd>ECCV 2022</kbd>
 - [DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_DFA3D_3D_Deformable_Attention_For_2D-to-3D_Feature_Lifting_ICCV_2023_paper.pdf) <kbd>ICCV 2023</kbd>
 
 # 2024-06
