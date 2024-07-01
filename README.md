@@ -8,6 +8,9 @@ For example, the understanding score is based on the checklists
 | :-----: | :----------: | :----------: | :----------: | :----------: |
 <br>
 
+# 2024-07
+- [DFA3D: 3D Deformable Attention For 2D-to-3D Feature Lifting](https://openaccess.thecvf.com/content/ICCV2023/papers/Li_DFA3D_3D_Deformable_Attention_For_2D-to-3D_Feature_Lifting_ICCV_2023_paper.pdf) <kbd>ICCV 2023</kbd>
+
 # 2024-06
 - [DETRs Beat YOLOs on Real-time Object Detection](https://arxiv.org/pdf/2304.08069) <kbd>CVPR 2024</kbd>
 - [Masked-attention Mask Transformer for Universal Image Segmentation](https://arxiv.org/pdf/2112.01527) 
