@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-07
+- [Anchor DETR: Query Design for Transformer-Based Object Detection](https://arxiv.org/pdf/2109.07107)
 - [BEVDet4D: Exploit Temporal Cues in Multi-camera 3D Object Detection](https://arxiv.org/abs/2203.17054)
 - [PETRv2: A Unified Framework for 3D Perception from Multi-Camera Images](https://openaccess.thecvf.com/content/ICCV2023/papers/Liu_PETRv2_A_Unified_Framework_for_3D_Perception_from_Multi-Camera_Images_ICCV_2023_paper.pdf) <kbd>ICCV 2023</kbd>
 - [PETR: Position Embedding Transformation for Multi-View 3D Object Detection](https://sunkyoo.github.io/opencv4cvml/) <kbd>ECCV 2022</kbd>
