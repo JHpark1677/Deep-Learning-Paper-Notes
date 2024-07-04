@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-07
+- [Object Detection with Transformers: A Review](https://arxiv.org/pdf/2306.04670)
 - [DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR](https://arxiv.org/abs/2201.12329) <kbd>ICLR 2022</kbd>
 - [DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_DN-DETR_Accelerate_DETR_Training_by_Introducing_Query_DeNoising_CVPR_2022_paper.pdf) <kbd>CVPR 2022</kbd>
 - [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Sparse_R-CNN_End-to-End_Object_Detection_With_Learnable_Proposals_CVPR_2021_paper.pdf) <kbd>CVPR 2021</kbd>
