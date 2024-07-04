@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-07
+- [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection](https://arxiv.org/abs/2203.03605) <kbd>ICLR 2023</kbd>
 - [Conditional DETR for Fast Training Convergence](https://arxiv.org/pdf/2108.06152) <kbd>ICCV 2021</kbd>
 - [PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection](https://arxiv.org/pdf/2205.07403) <kbd>ECCV 2022</kbd>
 - [Anchor DETR: Query Design for Transformer-Based Object Detection](https://arxiv.org/pdf/2109.07107)
