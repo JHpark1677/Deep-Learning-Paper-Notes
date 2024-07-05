@@ -15,6 +15,7 @@ For example, the understanding score is based on the checklists
 - [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Sparse_R-CNN_End-to-End_Object_Detection_With_Learnable_Proposals_CVPR_2021_paper.pdf) <kbd>CVPR 2021</kbd>
 
 This article contains literally full of inspiration for object query learnings in DETRs !!!
+
 - [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection](https://arxiv.org/abs/2203.03605) <kbd>ICLR 2023</kbd>
 - [Conditional DETR for Fast Training Convergence](https://arxiv.org/pdf/2108.06152) <kbd>ICCV 2021</kbd>
 - [PillarNet: Real-Time and High-Performance Pillar-based 3D Object Detection](https://arxiv.org/pdf/2205.07403) <kbd>ECCV 2022</kbd>
