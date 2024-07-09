@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-07
+- [Dynamic Filter Networks](https://arxiv.org/abs/1605.09673) <kbd>NIPS 2016</kbd>
 - [Dynamic Sparse R-CNN](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Dynamic_Sparse_R-CNN_CVPR_2022_paper.pdf) <kbd>CVPR 2022</kbd>
 - [Object Detection with Transformers: A Review](https://arxiv.org/pdf/2306.04670)
 - [DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR](https://arxiv.org/abs/2201.12329) <kbd>ICLR 2022</kbd>
