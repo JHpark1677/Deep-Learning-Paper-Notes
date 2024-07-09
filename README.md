@@ -9,14 +9,13 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-07
+- [Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity](https://arxiv.org/abs/2111.14330) <kbd>ICLR 2022</kbd>
 - [Dynamic Filter Networks](https://arxiv.org/abs/1605.09673) <kbd>NIPS 2016</kbd>
 - [Dynamic Sparse R-CNN](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Dynamic_Sparse_R-CNN_CVPR_2022_paper.pdf) <kbd>CVPR 2022</kbd>
 - [Object Detection with Transformers: A Review](https://arxiv.org/pdf/2306.04670)
 - [DAB-DETR: Dynamic Anchor Boxes are Better Queries for DETR](https://arxiv.org/abs/2201.12329) <kbd>ICLR 2022</kbd>
 - [DN-DETR: Accelerate DETR Training by Introducing Query DeNoising](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_DN-DETR_Accelerate_DETR_Training_by_Introducing_Query_DeNoising_CVPR_2022_paper.pdf) <kbd>CVPR 2022</kbd>
 - [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Sparse_R-CNN_End-to-End_Object_Detection_With_Learnable_Proposals_CVPR_2021_paper.pdf) <kbd>CVPR 2021</kbd>
-
-This article contains literally full of inspiration for object query learnings in DETRs !!!
 
 - [DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection](https://arxiv.org/abs/2203.03605) <kbd>ICLR 2023</kbd>
 - [Conditional DETR for Fast Training Convergence](https://arxiv.org/pdf/2108.06152) <kbd>ICCV 2021</kbd>
