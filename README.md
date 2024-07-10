@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-07
+- [Fast Convergence of DETR with Spatially Modulated Co-Attention](https://arxiv.org/pdf/2101.07448) <kbd>ICCV 2021</kbd>
 - [Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity](https://arxiv.org/abs/2111.14330) <kbd>ICLR 2022</kbd>
 - [Dynamic Filter Networks](https://arxiv.org/abs/1605.09673) <kbd>NIPS 2016</kbd>
 - [Dynamic Sparse R-CNN](https://openaccess.thecvf.com/content/CVPR2022/papers/Hong_Dynamic_Sparse_R-CNN_CVPR_2022_paper.pdf) <kbd>CVPR 2022</kbd>
