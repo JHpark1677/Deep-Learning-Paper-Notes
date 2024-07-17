@@ -47,7 +47,7 @@ For example, the understanding score is based on the checklists
 - [Conjugate Priors for Bayesian Object Tracking](https://research.chalmers.se/publication/519159/file/519159_Fulltext.pdf) _(Object Tracking)_
 - [An Overview of Signal Processing Techniques for Millimeter Wave MIMO Systems](https://arxiv.org/pdf/1512.03007.pdf) <kbd>IEEE Journal in Signal Processing 2016</kbd> _(MIMO wireless communication)_
 
-# 2024-03 [Article Writing Season]
+# 2024-03 [Paper Writing Season]
 - [Want to be Retweeted? Large Scale Analytics on Factors Impacting Retweet in Twitter Network](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5590452) _(Social Computing)_
 - [Estimating Training Data Influence by Tracing Gradient Descent](https://papers.nips.cc/paper/2020/file/e6385d39ec9394f2f3a354d9d2b88eec-Paper.pdf) <kbd>NIPS 2020</kbd> _(XAI)_
 - [Representer Point Selection for Explaining Deep Neural Networks](https://arxiv.org/pdf/1811.09720.pdf) <kbd>NIPS 2019</kbd> _(XAI)_
@@ -58,7 +58,7 @@ For example, the understanding score is based on the checklists
 - [Reliable Orientation Estimation of Vehicles in High-Resolution Radar Images](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7518649) _(Radar's Detection)_
 - [Evaluating the visualization of what a Deep Neural Network has learned](https://arxiv.org/pdf/1509.06321.pdf) _(XAI)_
 
-# 2024-02 [Article Writing Season]
+# 2024-02 [Paper Writing Season]
 
 
 # 2024-01
