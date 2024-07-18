@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-07
+- [DETRs with Collaborative Hybrid Assignments Training](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_DETRs_with_Collaborative_Hybrid_Assignments_Training_ICCV_2023_paper.pdf) <kbd>ICCV 2023</kbd>
 - [Fast Convergence of DETR with Spatially Modulated Co-Attention](https://arxiv.org/pdf/2101.07448) <kbd>ICCV 2021</kbd>
 - [Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity](https://arxiv.org/abs/2111.14330) <kbd>ICLR 2022</kbd>
 - [Dynamic Filter Networks](https://arxiv.org/abs/1605.09673) <kbd>NIPS 2016</kbd>
