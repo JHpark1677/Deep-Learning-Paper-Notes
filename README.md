@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 # 2024-07
+- [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf) <kbd>CVPR 2019</kbd>
 - [DETRs with Collaborative Hybrid Assignments Training](https://openaccess.thecvf.com/content/ICCV2023/papers/Zong_DETRs_with_Collaborative_Hybrid_Assignments_Training_ICCV_2023_paper.pdf) <kbd>ICCV 2023</kbd>
 - [Fast Convergence of DETR with Spatially Modulated Co-Attention](https://arxiv.org/pdf/2101.07448) <kbd>ICCV 2021</kbd>
 - [Sparse DETR: Efficient End-to-End Object Detection with Learnable Sparsity](https://arxiv.org/abs/2111.14330) <kbd>ICLR 2022</kbd>
