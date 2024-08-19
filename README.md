@@ -12,6 +12,8 @@ For example, the understanding score is based on the checklists
 - [Center-based 3D Object Detection and Tracking](https://arxiv.org/pdf/2006.11275) <kbd>CVPR 2021</kbd>
 - [Dynamic DETR: End-to-End Object Detection with Dynamic Attention](https://openaccess.thecvf.com/content/ICCV2021/papers/Dai_Dynamic_DETR_End-to-End_Object_Detection_With_Dynamic_Attention_ICCV_2021_paper.pdf) <kbd>ICCV 2021</kbd>
 - [PointPillars: Fast Encoders for Object Detection from Point Clouds](https://openaccess.thecvf.com/content_CVPR_2019/papers/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.pdf) <kbd>CVPR 2020</kbd>
+- [BEVStereo: Enhancing Depth Estimation in Multi-view 3D Object Detection with Dynamic Temporal Stereo](https://arxiv.org/abs/2209.10248) <kbd>AAAI 2023 </kbd>
+
 
 # 2024-07
 - [ON THE RELATIONSHIP BETWEEN SELF-ATTENTION AND CONVOLUTIONAL LAYERS](https://arxiv.org/pdf/1911.03584) <kbd>ICLR 2020</kbd>
