@@ -8,6 +8,10 @@ For example, the understanding score is based on the checklists
 | :-----: | :----------: | :----------: | :----------: | :----------: |
 <br>
 
+# 2024-09
+- [Vision Transformer with Deformable Attention](https://arxiv.org/pdf/2201.00520) <kbd>CVPR 2022</kbd>
+
+
 # 2024-08
 - [Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Exploring_Object-Centric_Temporal_Modeling_for_Efficient_Multi-View_3D_Object_Detection_ICCV_2023_paper.pdf) <kbd>ICCV 2023</kbd>
 - [AdaMixer: A Fast-Converging Query-Based Object Detector](https://arxiv.org/pdf/2203.16507) <kbd>CVPR Oral 2022</kbd>
