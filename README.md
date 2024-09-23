@@ -8,6 +8,8 @@ For example, the understanding score is based on the checklists
 | :-----: | :----------: | :----------: | :----------: | :----------: |
 <br>
 
+https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
+
 # 2024-09
 - [Vision Transformer with Deformable Attention](https://arxiv.org/pdf/2201.00520) <kbd>CVPR 2022</kbd>
 - [VISUALIZING DEEP NEURAL NETWORK DECISIONS:PREDICTION DIFFERENCE ANALYSIS](https://arxiv.org/pdf/1702.04595) <kbd>ICLR 2017</kbd>
