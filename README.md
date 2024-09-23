@@ -10,7 +10,9 @@ For example, the understanding score is based on the checklists
 
 # 2024-09
 - [Vision Transformer with Deformable Attention](https://arxiv.org/pdf/2201.00520) <kbd>CVPR 2022</kbd>
-
+- [VISUALIZING DEEP NEURAL NETWORK DECISIONS:PREDICTION DIFFERENCE ANALYSIS] <kbd>ICLR 2017</kbd>
+- [Explaining NonLinear Classification Decisions with Deep Taylor Decomposition](https://arxiv.org/pdf/1512.02479)
+- [Axiomatic Attribution for Deep Networks](https://arxiv.org/pdf/1512.02479)
 
 # 2024-08
 - [Exploring Object-Centric Temporal Modeling for Efficient Multi-View 3D Object Detection](https://openaccess.thecvf.com/content/ICCV2023/papers/Wang_Exploring_Object-Centric_Temporal_Modeling_for_Efficient_Multi-View_3D_Object_Detection_ICCV_2023_paper.pdf) <kbd>ICCV 2023</kbd>
