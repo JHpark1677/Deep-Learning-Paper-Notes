@@ -11,6 +11,9 @@ For example, the understanding score is based on the checklists
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-09
+- [AttnLRP: Attention-Aware Layer-Wise Relevance Propagation for Transformers](https://arxiv.org/pdf/2402.05602) <kbd>NIPS 2024</kbd> (XAI - LRP)
+- [Layer-wise Relevance Propagation for Neural Networks with Local Renormalization Layers](https://arxiv.org/pdf/1604.00825) (XAI - LRP)
+- [LRP-QViT: Mixed-Precision Vision Transformer Quantization via Layer-wise Relevance Propagation](https://arxiv.org/pdf/2401.11243) (XAI - LRP)
 - [Vision Transformer with Deformable Attention](https://arxiv.org/pdf/2201.00520) <kbd>CVPR 2022</kbd>
 - [VISUALIZING DEEP NEURAL NETWORK DECISIONS:PREDICTION DIFFERENCE ANALYSIS](https://arxiv.org/pdf/1702.04595) <kbd>ICLR 2017</kbd>
 - [Explaining NonLinear Classification Decisions with Deep Taylor Decomposition](https://arxiv.org/pdf/1512.02479)
