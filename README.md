@@ -11,6 +11,7 @@ For example, the understanding score is based on the checklists
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-09
+- [Layer-Wise Relevance Propagation with Conservation Property for ResNet](https://arxiv.org/abs/2407.09115) <kbd>ECCV 2024</kbd> (XAI - LRP)
 - [AttnLRP: Attention-Aware Layer-Wise Relevance Propagation for Transformers](https://arxiv.org/pdf/2402.05602) <kbd>NIPS 2024</kbd> (XAI - LRP)
 - [Layer-wise Relevance Propagation for Neural Networks with Local Renormalization Layers](https://arxiv.org/pdf/1604.00825) (XAI - LRP)
 - [LRP-QViT: Mixed-Precision Vision Transformer Quantization via Layer-wise Relevance Propagation](https://arxiv.org/pdf/2401.11243) (XAI - LRP)
