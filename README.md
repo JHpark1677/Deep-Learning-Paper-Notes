@@ -11,6 +11,7 @@ For example, the understanding score is based on the checklists
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-09
+- [Ground Truth Evaluation of Neural Network Explanations with CLEVR-XAI](https://arxiv.org/pdf/2003.07258)
 - [Deep Inside Convolutional Networks: Visualising Image Classification Models and Saliency Maps](https://arxiv.org/pdf/1312.6034)
 - [Quantifying Attention Flow in Transformers](https://arxiv.org/pdf/2005.00928) (XAI - Attention Rollout)
 - [Layer-Wise Relevance Propagation with Conservation Property for ResNet](https://arxiv.org/abs/2407.09115) <kbd>ECCV 2024</kbd> (XAI - LRP)
