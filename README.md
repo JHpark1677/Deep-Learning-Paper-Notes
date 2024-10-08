@@ -10,6 +10,9 @@ For example, the understanding score is based on the checklists
 
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
+# 2024-10 
+
+
 # 2024-09
 - [XAI for Transformers: Better Explanations through Conservative Propagation](https://proceedings.mlr.press/v162/ali22a/ali22a.pdf) <kbd>ICML 2022</kbd> (XAI - LRP)
 - [Ground Truth Evaluation of Neural Network Explanations with CLEVR-XAI](https://arxiv.org/pdf/2003.07258)
