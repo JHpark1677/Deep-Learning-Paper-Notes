@@ -11,7 +11,7 @@ For example, the understanding score is based on the checklists
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-10 
-
+- [Attention Branch Network: Learning of Attention Mechanism for Visual Explanation](https://arxiv.org/pdf/1812.10025) <kbd>CVPR 2019</kbd> (XAI - GradCAM)
 
 # 2024-09
 - [XAI for Transformers: Better Explanations through Conservative Propagation](https://proceedings.mlr.press/v162/ali22a/ali22a.pdf) <kbd>ICML 2022</kbd> (XAI - LRP)
