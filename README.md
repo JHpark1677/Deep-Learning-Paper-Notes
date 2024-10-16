@@ -13,7 +13,7 @@ https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 # 2024-10 
 - [Attention Branch Network: Learning of Attention Mechanism for Visual Explanation](https://arxiv.org/pdf/1812.10025) <kbd>CVPR 2019</kbd> (XAI - GradCAM)
 - [Explainable AI in Scene Understanding for Autonomous Vehicles in Unstructured Traffic Environments on Indian Roads Using the Inception U-Net Model with Grad-CAM Visualization](https://www.mdpi.com/1424-8220/22/24/9677) (XAI - AV)
-- [Explainable Artificial Intelligence for Autonomous Driving: A Comprehensive Overview and Field Guide for Future Research Directions](https://arxiv.org/pdf/2112.11561)
+- [Explainable Artificial Intelligence for Autonomous Driving: A Comprehensive Overview and Field Guide for Future Research Directions](https://arxiv.org/pdf/2112.11561) (XAI - AV Review)
 
 # 2024-09
 - [XAI for Transformers: Better Explanations through Conservative Propagation](https://proceedings.mlr.press/v162/ali22a/ali22a.pdf) <kbd>ICML 2022</kbd> (XAI - LRP)
