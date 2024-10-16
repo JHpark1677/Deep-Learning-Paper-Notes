@@ -11,6 +11,7 @@ For example, the understanding score is based on the checklists
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-10 
+- [BEVMap: Map-Aware BEV Modeling for 3D Perception](https://openaccess.thecvf.com/content/WACV2024/papers/Chang_BEVMap_Map-Aware_BEV_Modeling_for_3D_Perception_WACV_2024_paper.pdf) <kbd>CVPR 2024</kbd> (BEV Perception)
 - [Attention Branch Network: Learning of Attention Mechanism for Visual Explanation](https://arxiv.org/pdf/1812.10025) <kbd>CVPR 2019</kbd> (XAI - GradCAM)
 - [Explainable AI in Scene Understanding for Autonomous Vehicles in Unstructured Traffic Environments on Indian Roads Using the Inception U-Net Model with Grad-CAM Visualization](https://www.mdpi.com/1424-8220/22/24/9677) (XAI - AV)
 - [Explainable Artificial Intelligence for Autonomous Driving: A Comprehensive Overview and Field Guide for Future Research Directions](https://arxiv.org/pdf/2112.11561) (XAI - AV Review)
