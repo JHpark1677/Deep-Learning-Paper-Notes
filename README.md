@@ -10,7 +10,7 @@ For example, the understanding score is based on the checklists
 
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
-# 2024-11
+# 2024-11 [Paper Writing Season]
 - [Understanding Image Captioning Models beyond Visualizing Attention](http://interpretable-ml.org/icml2020workshop/pdf/25.pdf) (XAI)
 - [Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation](https://aclanthology.org/2021.acl-long.91.pdf) (XAI)
 
