@@ -10,6 +10,10 @@ For example, the understanding score is based on the checklists
 
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
+# 2024-11
+- [Understanding Image Captioning Models beyond Visualizing Attention](http://interpretable-ml.org/icml2020workshop/pdf/25.pdf) (XAI)
+- [Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation](https://aclanthology.org/2021.acl-long.91.pdf) (XAI)
+
 # 2024-10 
 - [BEVMap: Map-Aware BEV Modeling for 3D Perception](https://openaccess.thecvf.com/content/WACV2024/papers/Chang_BEVMap_Map-Aware_BEV_Modeling_for_3D_Perception_WACV_2024_paper.pdf) <kbd>CVPR 2024</kbd> (BEV Perception)
 - [Attention Branch Network: Learning of Attention Mechanism for Visual Explanation](https://arxiv.org/pdf/1812.10025) <kbd>CVPR 2019</kbd> (XAI - GradCAM)
