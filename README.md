@@ -11,7 +11,7 @@ For example, the understanding score is based on the checklists
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-11 [Paper Writing Season]
-- [Sphere Generative Adversarial Network Based on Geometric Moment Matching](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Sphere_Generative_Adversarial_Network_Based_on_Geometric_Moment_Matching_CVPR_2019_paper.pdf) (GAN) <kbd>CVPR 2019 Oral</kbd>
+- [Sphere Generative Adversarial Network Based on Geometric Moment Matching](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Sphere_Generative_Adversarial_Network_Based_on_Geometric_Moment_Matching_CVPR_2019_paper.pdf) <kbd>CVPR 2019 Oral</kbd> (GAN) 
 - [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/pdf/2012.09838) (XAI)
 - [Understanding Image Captioning Models beyond Visualizing Attention](http://interpretable-ml.org/icml2020workshop/pdf/25.pdf) (XAI)
 - [Analyzing the Source and Target Contributions to Predictions in Neural Machine Translation](https://aclanthology.org/2021.acl-long.91.pdf) (XAI)
