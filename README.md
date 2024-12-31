@@ -16,8 +16,8 @@ https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 - [ZeRO-Infinity: Breaking the GPU Memory Wall for Extreme Scale Deep Learning](https://arxiv.org/abs/2104.07857)
 
 # 2024-11 [Paper Writing Season]
-- [CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_CDDFuse_Correlation-Driven_Dual-Branch_Feature_Decomposition_for_Multi-Modality_Image_Fusion_CVPR_2023_paper.html) <kbd>CVPR 2023<\kbd>
-- [Quantifying & Modeling Multimodal Interactions: An Information Decomposition Framework](https://openreview.net/forum?id=J1gBijopla) <kbd>NIPS 2023<\kbd>
+- [CDDFuse: Correlation-Driven Dual-Branch Feature Decomposition for Multi-Modality Image Fusion](https://openaccess.thecvf.com/content/CVPR2023/html/Zhao_CDDFuse_Correlation-Driven_Dual-Branch_Feature_Decomposition_for_Multi-Modality_Image_Fusion_CVPR_2023_paper.html) <kbd>CVPR 2023</kbd>
+- [Quantifying & Modeling Multimodal Interactions: An Information Decomposition Framework](https://openreview.net/forum?id=J1gBijopla) <kbd>NIPS 2023</kbd>
 - [Sphere Generative Adversarial Network Based on Geometric Moment Matching](https://openaccess.thecvf.com/content_CVPR_2019/papers/Park_Sphere_Generative_Adversarial_Network_Based_on_Geometric_Moment_Matching_CVPR_2019_paper.pdf) <kbd>CVPR 2019 Oral</kbd> (GAN) 
 - [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/pdf/2012.09838) (XAI)
 - [Understanding Image Captioning Models beyond Visualizing Attention](http://interpretable-ml.org/icml2020workshop/pdf/25.pdf) (XAI)
