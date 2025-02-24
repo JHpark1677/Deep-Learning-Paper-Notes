@@ -10,6 +10,11 @@ For example, the understanding score is based on the checklists
 
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
+# 2024-02
+- [3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection](https://arxiv.org/pdf/2211.13529)
+- [CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection](https://arxiv.org/pdf/2411.03013)
+- [RCM-Fusion: Radar-Camera Multi-Level Fusion for 3D Object Detection](https://arxiv.org/pdf/2307.10249)
+
 # 2024-12
 - [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://arxiv.org/abs/2101.06840)
 - [ZeRO: Memory Optimizations Toward Training Trillion Parameter Models](https://arxiv.org/abs/1910.02054)
