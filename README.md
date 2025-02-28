@@ -15,6 +15,8 @@ https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 - [3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection](https://arxiv.org/pdf/2211.13529) _(Camera-Lidar Fusion)_
 - [CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection](https://arxiv.org/pdf/2411.03013) _(Camera-Radar Fusion)_
 - [RCM-Fusion: Radar-Camera Multi-Level Fusion for 3D Object Detection](https://arxiv.org/pdf/2307.10249) _(Camera-Radar Fusion)_
+- [Outrageously Large Neural Networks : The Sparsely-Gated Mixture-of-Experts Layer](https://arxiv.org/pdf/1701.06538) _(Mixture of Experts)_
+- []
 
 # 2024-12
 - [ZeRO-Offload: Democratizing Billion-Scale Model Training](https://arxiv.org/abs/2101.06840)
