@@ -12,7 +12,7 @@ https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-03
 - [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961) _(Mixture of Experts)_
-
+- [Scaling Vision with Sparse Mixture of Experts](https://arxiv.org/pdf/2106.05974) __(Mixture of Experts)_
 
 # 2024-02
 - [Mask2Map: Vectorized HD Map Construction Using Bird’s Eye View Segmentation Masks](https://arxiv.org/pdf/2407.13517)
