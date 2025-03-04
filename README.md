@@ -10,7 +10,7 @@ For example, the understanding score is based on the checklists
 
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
-# 2024-0300
+# 2024-03
 - [RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features](https://arxiv.org/abs/2403.05061) _(C-R fusion)_
 - [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961) _(Mixture of Experts)_
 - [Scaling Vision with Sparse Mixture of Experts](https://arxiv.org/pdf/2106.05974) __(Mixture of Experts)_
