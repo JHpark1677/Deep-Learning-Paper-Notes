@@ -11,6 +11,8 @@ For example, the understanding score is based on the checklists
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-03
+- [Locomotion Policy Guided Traversability Learning using Volumetric Representations of Complex Environments](https://arxiv.org/pdf/2203.15854) _(traversability)_
+- [Traversability Analysis for Autonomous Driving in Complex Environment: A LiDAR-based Terrain Modeling Approach](https://arxiv.org/pdf/2307.02060) _(traversability)_
 - [RadarDistill: Boosting Radar-based Object Detection Performance via Knowledge Distillation from LiDAR Features](https://arxiv.org/abs/2403.05061) _(C-R fusion)_
 - [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961) _(Mixture of Experts)_
 - [Scaling Vision with Sparse Mixture of Experts](https://arxiv.org/pdf/2106.05974) __(Mixture of Experts)_
