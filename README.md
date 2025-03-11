@@ -11,6 +11,7 @@ For example, the understanding score is based on the checklists
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-03
+- [Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/pdf/1912.02178) _<kbd>ICLR 2020</kbd>
 - [Understanding Deep Learning (Still) Requires Rethinking Generalization](https://dl.acm.org/doi/pdf/10.1145/3446776) _(Deep Learning Theory)_
 - [V-STRONG: Visual Self-Supervised Traversability Learning for Off-road Navigation](https://arxiv.org/pdf/2312.16016) _(Traversability)_ <kbd>ICRA 2024</kbd>
 - [Follow the Footprints: Self-supervised Traversability Estimation for Off-road Vehicle Navigation based on Geometric and Visual Cues](https://arxiv.org/pdf/2402.15363) _(Traversability)_ <kbd>ICRA 2024</kbd>
