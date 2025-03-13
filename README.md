@@ -11,6 +11,7 @@ For example, the understanding score is based on the checklists
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-03
+- [Segment Anything](https://arxiv.org/pdf/2304.02643) 
 - [ON LARGE-BATCH TRAINING FOR DEEP LEARNING: GENERALIZATION GAP AND SHARP MINIMA](https://arxiv.org/pdf/1609.04836) _(Deep Learning Theory)_ <kbd>ICLR 2017</kbd>
 - [A Closer Look at Memorization in Deep Networks](https://arxiv.org/pdf/1706.05394) _(Deep Learning Theory)_
 - [Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/pdf/1912.02178) _(Deep Learning Theory)_ <kbd>ICLR 2020</kbd>
