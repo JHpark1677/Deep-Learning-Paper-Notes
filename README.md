@@ -12,7 +12,7 @@ https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-03
 - [Benign Overfitting in Linear Regression](https://arxiv.org/pdf/1906.11300) _(Deep Learning Theory)_
-  // The definition that "if a model performs well on the training set but poorly on the test set, it is overfitting" can be an oversimplified interpretation!!
+The definition that "if a model performs well on the training set but poorly on the test set, it is overfitting" can be an oversimplified interpretation!!
 - [Segment Anything](https://arxiv.org/pdf/2304.02643) 
 - [ON LARGE-BATCH TRAINING FOR DEEP LEARNING: GENERALIZATION GAP AND SHARP MINIMA](https://arxiv.org/pdf/1609.04836) _(Deep Learning Theory)_ <kbd>ICLR 2017</kbd>
 - [A Closer Look at Memorization in Deep Networks](https://arxiv.org/pdf/1706.05394) _(Deep Learning Theory)_
