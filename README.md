@@ -14,7 +14,7 @@ https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 - [Explainable Artificial Intelligence (XAI) 2.0: A manifesto of open challenges and interdisciplinary research directions](https://www.sciencedirect.com/science/article/pii/S1566253524000794) _(XAI_Comprehensive_Review_Paper)_
 - [Benign Overfitting in Linear Regression](https://arxiv.org/pdf/1906.11300) _(Deep Learning Theory)_
 The definition that "if a model performs well on the training set but poorly on the test set, it is overfitting" can be an oversimplified interpretation !
-- [Segment Anything](https://arxiv.org/pdf/2304.02643) 
+- [Segment Anything](https://arxiv.org/pdf/2304.02643) _(Semantic Segmentation)_
 - [ON LARGE-BATCH TRAINING FOR DEEP LEARNING: GENERALIZATION GAP AND SHARP MINIMA](https://arxiv.org/pdf/1609.04836) _(Deep Learning Theory)_ <kbd>ICLR 2017</kbd>
 - [A Closer Look at Memorization in Deep Networks](https://arxiv.org/pdf/1706.05394) _(Deep Learning Theory)_
 - [Fantastic Generalization Measures and Where to Find Them](https://arxiv.org/pdf/1912.02178) _(Deep Learning Theory)_ <kbd>ICLR 2020</kbd>
