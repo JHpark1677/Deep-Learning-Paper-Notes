@@ -11,6 +11,7 @@ For example, the understanding score is based on the checklists
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-03
+- Decoupling Pixel Flipping and Occlusion Strategy for Consistent XAI Benchmarks](https://arxiv.org/pdf/2401.06654)
 - [Feature Perturbation Augmentation for Reliable Evaluation of Importance Estimators in Neural Networks](https://arxiv.org/pdf/2303.01538)
 - [Synthesizing the preferred inputs for neurons in neural networks via deep generator networks](https://arxiv.org/pdf/1605.09304) _(XAI)_ <kbd>NIPS 2016</kbd>
 - [Explainable Artificial Intelligence (XAI) 2.0: A manifesto of open challenges and interdisciplinary research directions](https://www.sciencedirect.com/science/article/pii/S1566253524000794) _(XAI_Comprehensive_Review_Paper)_
