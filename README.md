@@ -11,6 +11,7 @@ For example, the understanding score is based on the checklists
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-03
+- [Exploring the Unseen: A Survey of Multi-Sensor Fusion and the Role of Explainable AI (XAI) in Autonomous Vehicles](file:///C:/Users/ltblj/Downloads/sensors-25-00856-v2.pdf) _(XAI)_
 - [Decoupling Pixel Flipping and Occlusion Strategy for Consistent XAI Benchmarks](https://arxiv.org/pdf/2401.06654) _(XAI Benchmarks)_
 - [Feature Perturbation Augmentation for Reliable Evaluation of Importance Estimators in Neural Networks](https://arxiv.org/pdf/2303.01538)
 - [Synthesizing the preferred inputs for neurons in neural networks via deep generator networks](https://arxiv.org/pdf/1605.09304) _(XAI)_ <kbd>NIPS 2016</kbd>
