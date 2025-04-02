@@ -11,6 +11,8 @@ For example, the understanding score is based on the checklists
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 
 # 2024-04
+- [ExplainingHowTransformersUseContexttoBuildPredictions](https://arxiv.org/abs/2305.12535) _(Attention Decomposition)_
+- [Measuring the Mixing of Contextual Information in the Transformer](https://arxiv.org/abs/2203.04212) _(Attention Decomposition)_
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) _(Contrastive Learning)_
 
 # 2024-03
