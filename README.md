@@ -9,6 +9,7 @@ For example, the understanding score is based on the checklists
 <br>
 
 https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
+https://docs.google.com/spreadsheets/d/1J96dnrE8J6-Ll1Ht8R68z-1UYdgBumgdaAJB6sHB9aI/edit?gid=0#gid=0
 
 # 2024-04
 - [Unveiling the Generalization Power of Fine-Tuned Large Language Models](https://arxiv.org/abs/2403.09162) _(LLM)_ <kbd>NAACL 2024</kbd>
