@@ -12,6 +12,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1J96dnrE8J6-Ll1Ht8R68z-1UYdgBumgdaAJB6sHB9aI/edit?gid=0#gid=0
 
 # 2024-04
+- [CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models](https://arxiv.org/pdf/2411.18613) _(VLM)_
 - [Random Search for Hyper-Parameter Optimization](https://jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf) _(Deep Learning Theory)_
 - [Unveiling the Generalization Power of Fine-Tuned Large Language Models](https://arxiv.org/abs/2403.09162) _(LLM)_ <kbd>NAACL 2024</kbd>
 - [A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar](https://ieeexplore.ieee.org/document/9380784/) _(Sensor Calibration)_
