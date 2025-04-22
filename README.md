@@ -12,6 +12,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1J96dnrE8J6-Ll1Ht8R68z-1UYdgBumgdaAJB6sHB9aI/edit?gid=0#gid=0
 
 # 2024-04
+- [A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1012.2599) _(Deep Learning Theory)_
 - [Learning to summarize from human feedback](https://arxiv.org/abs/2009.01325) <kbd>NeurIPS 2020</kbd> _(VLM RLHF)_
 - [Sigmoid Loss for Language Image Pre-Training](https://arxiv.org/abs/2303.15343) <kbd>ICCV'23 Oral</kbd> _(VLM SigLIP)_
 - [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/pdf/2103.00020) _(VLM CLIP)_
