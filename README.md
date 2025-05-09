@@ -12,6 +12,8 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1J96dnrE8J6-Ll1Ht8R68z-1UYdgBumgdaAJB6sHB9aI/edit?gid=0#gid=0
 
 # 2024-05
+- [Interpretable Image Classification with Adaptive Prototype-based Vision Transformers](https://arxiv.org/pdf/2410.20722) <kbd>NeurIPS 2024</kbd>
+- [Inherently Interpretable Tree Ensemble Learning](https://arxiv.org/pdf/2410.19098)
 - [Neural Basis Models for Interpretability](https://arxiv.org/pdf/2205.14120) _(Generaelized Additive Models)_
 - [ANOVA-NODE: AN IDENTIFIABLE NEURAL NETWORK FOR THE FUNCTIONAL ANOVA MODEL FOR BETTER INTERPRETABILITY](https://openreview.net/pdf?id=Xy1Lf7uR9H)
 
