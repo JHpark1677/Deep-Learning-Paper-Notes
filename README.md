@@ -15,7 +15,6 @@ For example, the understanding score is based on the checklists
 - [Neural Basis Models for Interpretability](https://arxiv.org/pdf/2205.14120) _(Generaelized Additive Models)_
 - [ANOVA-NODE: AN IDENTIFIABLE NEURAL NETWORK FOR THE FUNCTIONAL ANOVA MODEL FOR BETTER INTERPRETABILITY](https://openreview.net/pdf?id=Xy1Lf7uR9H)
 
-
 # 2024-04
 - [Unifying Feature-Based Explanations with Functional ANOVA and Cooperative Game Theory](https://arxiv.org/pdf/2412.17152)
 - [Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models](https://proceedings.mlr.press/v108/lengerich20a/lengerich20a.pdf) <kbd>ICML 2020</kbd>
