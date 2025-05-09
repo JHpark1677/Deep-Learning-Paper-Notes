@@ -11,6 +11,9 @@ For example, the understanding score is based on the checklists
 - https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 - https://docs.google.com/spreadsheets/d/1J96dnrE8J6-Ll1Ht8R68z-1UYdgBumgdaAJB6sHB9aI/edit?gid=0#gid=0
 
+# 2024-05
+- [ANOVA-NODE: AN IDENTIFIABLE NEURAL NETWORK FOR THE FUNCTIONAL ANOVA MODEL FOR BETTER INTERPRETABILITY](https://openreview.net/pdf?id=Xy1Lf7uR9H)
+
 # 2024-04
 - [Unifying Feature-Based Explanations with Functional ANOVA and Cooperative Game Theory](https://arxiv.org/pdf/2412.17152)
 - [Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models](https://proceedings.mlr.press/v108/lengerich20a/lengerich20a.pdf) <kbd>ICML 2020</kbd>
