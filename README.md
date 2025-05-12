@@ -11,13 +11,13 @@ For example, the understanding score is based on the checklists
 - https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 - https://docs.google.com/spreadsheets/d/1J96dnrE8J6-Ll1Ht8R68z-1UYdgBumgdaAJB6sHB9aI/edit?gid=0#gid=0
 
-# 2024-05
+# 2025-05
 - [Interpretable Image Classification with Adaptive Prototype-based Vision Transformers](https://arxiv.org/pdf/2410.20722) <kbd>NeurIPS 2024</kbd>
 - [Inherently Interpretable Tree Ensemble Learning](https://arxiv.org/pdf/2410.19098)
 - [Neural Basis Models for Interpretability](https://arxiv.org/pdf/2205.14120) _(Generaelized Additive Models)_
 - [ANOVA-NODE: AN IDENTIFIABLE NEURAL NETWORK FOR THE FUNCTIONAL ANOVA MODEL FOR BETTER INTERPRETABILITY](https://openreview.net/pdf?id=Xy1Lf7uR9H)
 
-# 2024-04
+# 2025-04
 - [Unifying Feature-Based Explanations with Functional ANOVA and Cooperative Game Theory](https://arxiv.org/pdf/2412.17152)
 - [Purifying Interaction Effects with the Functional ANOVA: An Efficient Algorithm for Recovering Identifiable Additive Models](https://proceedings.mlr.press/v108/lengerich20a/lengerich20a.pdf) <kbd>ICML 2020</kbd>
 - [A Tutorial on Bayesian Optimization of Expensive Cost Functions, with Application to Active User Modeling and Hierarchical Reinforcement Learning](https://arxiv.org/pdf/1012.2599) _(Deep Learning Theory)_
@@ -32,7 +32,7 @@ For example, the understanding score is based on the checklists
 - [Measuring the Mixing of Contextual Information in the Transformer](https://arxiv.org/abs/2203.04212) _(Attention Decomposition)_
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) _(Contrastive Learning)_
 
-# 2024-03
+# 2025-03
 - [Gaussian Process Neural Additive Models](https://arxiv.org/pdf/2402.12518) _(XAI)_ <kbd>AAAI 2024</kbd>
 - [NODE-GAM : NEURAL GENERALIZED ADDITIVE MODEL FOR INTERPRETABLE DEEP LEARNING](https://openreview.net/pdf?id=g8NJR6fCCl8) _(XAI)_ <kbd>ICLR 2022</kbd>
 - [Neural Additive Models:Interpretable Machine Learning with Neural Nets](https://arxiv.org/pdf/2004.13912) _(XAI)_ <kbd>NIPS 2021</kbd>
@@ -57,7 +57,7 @@ The definition that "if a model performs well on the training set but poorly on 
 - [Switch Transformers: Scaling to Trillion Parameter Models with Simple and Efficient Sparsity](https://arxiv.org/pdf/2101.03961) _(Mixture of Experts)_
 - [Scaling Vision with Sparse Mixture of Experts](https://arxiv.org/pdf/2106.05974) __(Mixture of Experts)_
 
-# 2024-02
+# 2025-02
 - [Mask2Map: Vectorized HD Map Construction Using Bird’s Eye View Segmentation Masks](https://arxiv.org/pdf/2407.13517)
 - [3D Dual-Fusion: Dual-Domain Dual-Query Camera-LiDAR Fusion for 3D Object Detection](https://arxiv.org/pdf/2211.13529) _(Camera-Lidar Fusion)_
 - [CRT-Fusion: Camera, Radar, Temporal Fusion Using Motion Information for 3D Object Detection](https://arxiv.org/pdf/2411.03013) _(Camera-Radar Fusion)_
