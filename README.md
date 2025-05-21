@@ -16,6 +16,8 @@ For example, the understanding score is based on the checklists
 - [Inherently Interpretable Tree Ensemble Learning](https://arxiv.org/pdf/2410.19098)
 - [Neural Basis Models for Interpretability](https://arxiv.org/pdf/2205.14120) _(Generaelized Additive Models)_
 - [ANOVA-NODE: AN IDENTIFIABLE NEURAL NETWORK FOR THE FUNCTIONAL ANOVA MODEL FOR BETTER INTERPRETABILITY](https://openreview.net/pdf?id=Xy1Lf7uR9H)
+- [Extracting Training Data from Large Language Models](https://arxiv.org/pdf/2012.07805) _(LLM Data)_
+- [Extracting Training Data from Diffusion Models](https://arxiv.org/pdf/2301.13188) _(LLM Data)_
 
 # 2025-04
 - [Unifying Feature-Based Explanations with Functional ANOVA and Cooperative Game Theory](https://arxiv.org/pdf/2412.17152)
