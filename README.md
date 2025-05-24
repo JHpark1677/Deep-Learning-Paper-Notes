@@ -12,6 +12,8 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1J96dnrE8J6-Ll1Ht8R68z-1UYdgBumgdaAJB6sHB9aI/edit?gid=0#gid=0
 
 # 2025-05
+- [Speculative Decoding with Big Little Decoder](https://arxiv.org/pdf/2302.07863) _(LLM Infrastructure)_
+- [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://arxiv.org/pdf/2403.02310) _(LLM Infrastructure)_
 - [Interpretable Image Classification with Adaptive Prototype-based Vision Transformers](https://arxiv.org/pdf/2410.20722) <kbd>NeurIPS 2024</kbd>
 - [Inherently Interpretable Tree Ensemble Learning](https://arxiv.org/pdf/2410.19098)
 - [Neural Basis Models for Interpretability](https://arxiv.org/pdf/2205.14120) _(Generaelized Additive Models)_
