@@ -17,6 +17,7 @@ For example, the understanding score is based on the checklists
 - https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings
 
 # 2025-05
+- [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/pdf/2303.05499) <kbd>ECCV 2024</kbd>
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) _(Contrastive Learning)_
 - [Speculative Decoding with Big Little Decoder](https://arxiv.org/pdf/2302.07863) _(LLM Infrastructure)_ <kbd>NeurIPS 2023</kbd>
 - [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://arxiv.org/pdf/2403.02310) _(LLM Infrastructure)_
