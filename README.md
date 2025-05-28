@@ -10,6 +10,7 @@ For example, the understanding score is based on the checklists
 
 - https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
 - https://docs.google.com/spreadsheets/d/1J96dnrE8J6-Ll1Ht8R68z-1UYdgBumgdaAJB6sHB9aI/edit?gid=0#gid=0
+- https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings
 
 # 2025-05
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) _(Contrastive Learning)_
