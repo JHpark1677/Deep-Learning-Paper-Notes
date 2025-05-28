@@ -8,8 +8,12 @@ For example, the understanding score is based on the checklists
 | :-----: | :----------: | :----------: | :----------: | :----------: |
 <br>
 
+# Paper Lists
+### Advanced Deep Learning SNU-2023
 - https://incongruous-prepared-cb5.notion.site/579ca645fe7b492985866de6ea75b797
+### Vision Language Model SNU-2025
 - https://docs.google.com/spreadsheets/d/1J96dnrE8J6-Ll1Ht8R68z-1UYdgBumgdaAJB6sHB9aI/edit?gid=0#gid=0
+### Computer Vision in the Wild
 - https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings
 
 # 2025-05
