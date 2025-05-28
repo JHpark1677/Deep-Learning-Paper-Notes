@@ -12,6 +12,7 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1J96dnrE8J6-Ll1Ht8R68z-1UYdgBumgdaAJB6sHB9aI/edit?gid=0#gid=0
 
 # 2025-05
+- [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) _(Contrastive Learning)_
 - [Speculative Decoding with Big Little Decoder](https://arxiv.org/pdf/2302.07863) _(LLM Infrastructure)_ <kbd>NeurIPS 2023</kbd>
 - [Taming Throughput-Latency Tradeoff in LLM Inference with Sarathi-Serve](https://arxiv.org/pdf/2403.02310) _(LLM Infrastructure)_
 - [Interpretable Image Classification with Adaptive Prototype-based Vision Transformers](https://arxiv.org/pdf/2410.20722) <kbd>NeurIPS 2024</kbd>
