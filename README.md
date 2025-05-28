@@ -17,6 +17,7 @@ For example, the understanding score is based on the checklists
 - https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings
 
 # 2025-05
+- [RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/pdf/2209.01814) <kbd>NeurIPS 2022 Spotlight</kbd> _(HOI Detection)_
 - [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/pdf/2303.05499) <kbd>ECCV 2024</kbd>
 - [A Simple Framework for Contrastive Learning of Visual Representations](https://arxiv.org/abs/2002.05709) _(Contrastive Learning)_
 - [Speculative Decoding with Big Little Decoder](https://arxiv.org/pdf/2302.07863) _(LLM Infrastructure)_ <kbd>NeurIPS 2023</kbd>
