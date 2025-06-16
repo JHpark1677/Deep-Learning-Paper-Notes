@@ -16,6 +16,10 @@ For example, the understanding score is based on the checklists
 ### Computer Vision in the Wild
 - https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings
 
+# 2025-06
+- [VISION TRANSFORMERS NEED REGISTERS](https://arxiv.org/pdf/2309.16588) <kbd>ICLR 2024</kbd>
+- [DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception](https://arxiv.org/pdf/2505.04410) <kbd>CVPR 2025</kbd>
+
 # 2025-05
 - [RLIP: Relational Language-Image Pre-training for Human-Object Interaction Detection](https://arxiv.org/pdf/2209.01814) <kbd>NeurIPS 2022 Spotlight</kbd> _(HOI Detection)_
 - [Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection](https://arxiv.org/pdf/2303.05499) <kbd>ECCV 2024</kbd>
