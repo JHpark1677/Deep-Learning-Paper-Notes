@@ -17,6 +17,7 @@ For example, the understanding score is based on the checklists
 - https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings
 
 # 2025-06
+- [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) <kbd>ECCV 2020 oral</kbd>
 - [VISION TRANSFORMERS NEED REGISTERS](https://arxiv.org/pdf/2309.16588) <kbd>ICLR 2024</kbd>
 - [DeCLIP: Decoupled Learning for Open-Vocabulary Dense Perception](https://arxiv.org/pdf/2505.04410) <kbd>CVPR 2025</kbd>
 
