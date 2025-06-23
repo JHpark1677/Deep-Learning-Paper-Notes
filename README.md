@@ -17,6 +17,14 @@ For example, the understanding score is based on the checklists
 - https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings
 
 # 2025-06
+OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction
+SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving
+[CVPR 2023] Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction
+VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion
+
+[CVPR 2022] MonoScene: Monocular 3D Semantic Scene Completion
+- [FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin](https://arxiv.org/abs/2311.12058)
+
 - [A Survey on 3D Gaussian Splatting](https://arxiv.org/pdf/2401.03890)
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) <kbd>ECCV 2020 oral</kbd>
 - [VISION TRANSFORMERS NEED REGISTERS](https://arxiv.org/pdf/2309.16588) <kbd>ICLR 2024</kbd>
