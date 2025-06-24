@@ -20,6 +20,7 @@ For example, the understanding score is based on the checklists
 
 
 # 2025-06
+- [OccFusion: Multi-Sensor Fusion Framework for 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2403.01644)
 - OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction
 - SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving
 - Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction <kbd>CVPR 2023</kbd>
