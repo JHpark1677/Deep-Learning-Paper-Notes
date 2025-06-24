@@ -15,6 +15,9 @@ For example, the understanding score is based on the checklists
 - https://docs.google.com/spreadsheets/d/1J96dnrE8J6-Ll1Ht8R68z-1UYdgBumgdaAJB6sHB9aI/edit?gid=0#gid=0
 ### Computer Vision in the Wild
 - https://github.com/Computer-Vision-in-the-Wild/CVinW_Readings
+### AD + Gaussian Splatting
+- https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
+
 
 # 2025-06
 - OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction
