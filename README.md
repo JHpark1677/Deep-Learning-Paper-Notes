@@ -18,18 +18,18 @@ For example, the understanding score is based on the checklists
 ### AD + Gaussian Splatting
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
+# 2025-07
+- [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions](https://arxiv.org/pdf/2211.05778) <kdb>CVPR 2023 Highlight</kbd>
+
 
 # 2025-06
-- [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions](https://arxiv.org/pdf/2211.05778) <kdb>CVPR 2023 Highlight</kbd>
 - [OccFusion: Multi-Sensor Fusion Framework for 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2403.01644)
 - OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction
 - SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving
 - Tri-Perspective View for Vision-Based 3D Semantic Occupancy Prediction <kbd>CVPR 2023</kbd>
 - VoxFormer: Sparse Voxel Transformer for Camera-based 3D Semantic Scene Completion
-
 - MonoScene: Monocular 3D Semantic Scene Completion <kbd>CVPR 2022</kbd>
 - [FlashOcc: Fast and Memory-Efficient Occupancy Prediction via Channel-to-Height Plugin](https://arxiv.org/abs/2311.12058)
-
 - [A Survey on 3D Gaussian Splatting](https://arxiv.org/pdf/2401.03890)
 - [NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis](https://arxiv.org/abs/2003.08934) <kbd>ECCV 2020 oral</kbd>
 - [VISION TRANSFORMERS NEED REGISTERS](https://arxiv.org/pdf/2309.16588) <kbd>ICLR 2024</kbd>
