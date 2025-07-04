@@ -20,7 +20,7 @@ For example, the understanding score is based on the checklists
 
 
 # 2025-06
-- [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions](https://arxiv.org/pdf/2211.05778) <kdb>CVPR 2022 Highlight</kbd>
+- [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions](https://arxiv.org/pdf/2211.05778) <kdb>CVPR 2023 Highlight</kbd>
 - [OccFusion: Multi-Sensor Fusion Framework for 3D Semantic Occupancy Prediction](https://arxiv.org/pdf/2403.01644)
 - OccFormer: Dual-path Transformer for Vision-based 3D Semantic Occupancy Prediction
 - SurroundOcc: Multi-Camera 3D Occupancy Prediction for Autonomous Driving
