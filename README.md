@@ -21,7 +21,10 @@ For example, the understanding score is based on the checklists
 # 2025-09
 - [OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection
 in Autonomous Driving](https://arxiv.org/pdf/2506.23565) <kbd>ICCV 2025</kbd>
-
+- [GaussRender: Learning 3D Occupancy with Gaussian Rendering](https://arxiv.org/pdf/2502.05040) <kbd>ICCV 2025</kbd>
+- [GS-Occ3D: Scaling Vision-only Occupancy Reconstruction
+with Gaussian Splatting](https://arxiv.org/pdf/2507.19451) <kbd>ICCV 2025</kbd>
+- [3D-HGS: 3D Half-Gaussian Splatting](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_3D-HGS_3D_Half-Gaussian_Splatting_CVPR_2025_paper.pdf) <kbd>ICCV 2025</kbd>
 # 2025-07
 - [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions](https://arxiv.org/pdf/2211.05778) <kdb>CVPR 2023 Highlight</kbd>
 
