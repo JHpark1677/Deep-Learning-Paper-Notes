@@ -18,6 +18,10 @@ For example, the understanding score is based on the checklists
 ### AD + Gaussian Splatting
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
+# 2025-09
+- [OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection
+in Autonomous Driving](https://arxiv.org/pdf/2506.23565) <kbd>ICCV 2025</kbd>
+
 # 2025-07
 - [InternImage: Exploring Large-Scale Vision Foundation Models with Deformable Convolutions](https://arxiv.org/pdf/2211.05778) <kdb>CVPR 2023 Highlight</kbd>
 
