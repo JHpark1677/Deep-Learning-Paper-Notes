@@ -22,7 +22,6 @@ For example, the understanding score is based on the checklists
 - [OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving](https://arxiv.org/pdf/2506.23565) <kbd>ICCV 2025</kbd>
 - [GaussRender: Learning 3D Occupancy with Gaussian Rendering](https://arxiv.org/pdf/2502.05040) <kbd>ICCV 2025</kbd>
 - [GS-Occ3D: Scaling Vision-only Occupancy Reconstruction with Gaussian Splatting](https://arxiv.org/pdf/2507.19451) <kbd>ICCV 2025</kbd>
-
 - [3D Gaussian Splatting as Markov Chain Monte Carlo](https://openreview.net/pdf?id=AFMFmkxQuK) <kbd>NIPS 2024 Spotlight</kbd>
 - [SAGS: Structure-Aware 3D Gaussian Splatting](https://arxiv.org/pdf/2404.19149) <kbd>ECCV 2024</kbd>
 
