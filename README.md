@@ -27,7 +27,7 @@ For example, the understanding score is based on the checklists
 
 ** Radial Basis Function **
 - [Gaussian RBFNet: Gaussian Radial Basis Functions for Fast and Accurate Representation and Reconstruction of Neural Fields](https://arxiv.org/pdf/2503.06762)
-- [DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions](https://arxiv.org/pdf/2501.12369)
+- [DARB-Splatting: Generalizing Splatting with Decaying Anisotropic Radial Basis Functions](https://arxiv.org/pdf/2501.12369) <kbd>2025</kbd>
 - [3D-HGS: 3D Half-Gaussian Splatting](https://openaccess.thecvf.com/content/CVPR2025/papers/Li_3D-HGS_3D_Half-Gaussian_Splatting_CVPR_2025_paper.pdf) <kbd>CVPR 2025</kbd>
 - [GES : Generalized Exponential Splatting for Efficient Radiance Field Rendering](https://openreview.net/pdf?id=AFMFmkxQuK) <kbd>CVPR 2024</kbd>
 
