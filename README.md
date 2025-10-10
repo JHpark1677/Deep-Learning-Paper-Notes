@@ -18,6 +18,11 @@ For example, the understanding score is based on the checklists
 ### AD + Gaussian Splatting
 - https://docs.google.com/spreadsheets/d/1Xt4NLJIjILTEXQOiBxQNN1izEGF-rvZt/edit?usp=sharing&ouid=104341429099946347621&rtpof=true&sd=true
 
+# 2025-10
+- [Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models](https://arxiv.org/abs/2410.10733) <kbd>ICLR 2025</kbd> Autoencoder + GAN
+- [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/abs/1512.09300)
+- [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644)
+
 # 2025-09
 - [OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving](https://arxiv.org/pdf/2506.23565) <kbd>ICCV 2025</kbd>
 - [GaussRender: Learning 3D Occupancy with Gaussian Rendering](https://arxiv.org/pdf/2502.05040) <kbd>ICCV 2025</kbd>
