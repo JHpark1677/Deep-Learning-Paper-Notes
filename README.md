@@ -20,8 +20,8 @@ For example, the understanding score is based on the checklists
 
 # 2025-10
 - [Deep Compression Autoencoder for Efficient High-Resolution Diffusion Models](https://arxiv.org/abs/2410.10733) <kbd>ICLR 2025</kbd> Autoencoder + GAN
-- [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/abs/1512.09300)
-- [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644)
+- [Autoencoding beyond pixels using a learned similarity metric](https://arxiv.org/abs/1512.09300) Autoencoder + GAN
+- [Adversarial Autoencoders](https://arxiv.org/abs/1511.05644) Autoencoder + GAN
 
 # 2025-09
 - [OcRFDet: Object-Centric Radiance Fields for Multi-View 3D Object Detection in Autonomous Driving](https://arxiv.org/pdf/2506.23565) <kbd>ICCV 2025</kbd>
